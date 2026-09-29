@@ -166,8 +166,9 @@ window.episodeReady=(async()=>{
   initial=clamp(initial,0,timing.duration-1);
   if(initial>timing.duration-3)initial=0;
   pendingSeek=initial;
-  // Stream directly: the first frame and navigation never wait for the whole MP3.
-  audio.src='assets/episode.mp3';audio.load();
+  // Stream directly: the first frame and navigation never wait for the whole audio file.
+  // Indexed AAC keeps random audio seeks aligned with the transcript clock.
+  audio.src='assets/episode.m4a';audio.load();
   $('start').textContent=initial>1?`▶ Resume at ${format(initial)}`:'▶ Watch the conversation';
  }
  $('loading').remove();window.renderAt(initial);return window.pilotInfo;

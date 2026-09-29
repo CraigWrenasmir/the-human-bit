@@ -19,7 +19,7 @@
         "pass": true
       },
       {
-        "name": "Streaming audio uses direct URL",
+        "name": "Indexed AAC stream selected",
         "pass": true
       },
       {
@@ -100,6 +100,131 @@
       "nativeFrames": 23,
       "browserErrors": 0,
       "findings": "No blocking visual findings in chapter, handover and music-gap samples."
+    },
+    "audioSeekAccuracy": {
+      "passed": true,
+      "audioFile": "assets/episode.m4a",
+      "audioSha256": "6a3de38fccf7d7d8a92d0f7dd6f8df4df19c328f34162b19a147081d322ed5e5",
+      "method": "Actual browser audio samples after cold, forward, backward and repeated seeks correlated with a sequential source decode. WebKit uses a 128-frame AudioWorklet to avoid ScriptProcessor diagnostic buffering.",
+      "browserResults": {
+        "Chromium": [
+          {
+            "capture": "capture-00_2190-00.json",
+            "requested": 2190,
+            "mediaClockAtBlock": 2191.596432,
+            "matchedReferenceTime": 2191.513,
+            "apparentAudioVsClockSeconds": -0.083,
+            "correlation": 0.9846336052564908,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-01_3219-98.json",
+            "requested": 3219.978752,
+            "mediaClockAtBlock": 3221.54907,
+            "matchedReferenceTime": 3221.465,
+            "apparentAudioVsClockSeconds": -0.084,
+            "correlation": 0.9928243511819421,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-02_4000-00.json",
+            "requested": 4000,
+            "mediaClockAtBlock": 4001.616755,
+            "matchedReferenceTime": 4001.533,
+            "apparentAudioVsClockSeconds": -0.084,
+            "correlation": 0.9570394333008756,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-03_400-00.json",
+            "requested": 400,
+            "mediaClockAtBlock": 401.593549,
+            "matchedReferenceTime": 401.508,
+            "apparentAudioVsClockSeconds": -0.086,
+            "correlation": 0.9075109624891659,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-04_2190-00.json",
+            "requested": 2190,
+            "mediaClockAtBlock": 2191.576114,
+            "matchedReferenceTime": 2191.492,
+            "apparentAudioVsClockSeconds": -0.084,
+            "correlation": 0.9988761506769684,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-05_3-00.json",
+            "requested": 3,
+            "mediaClockAtBlock": 4.564488,
+            "matchedReferenceTime": 4.48,
+            "apparentAudioVsClockSeconds": -0.084,
+            "correlation": 0.8280656797952977,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          }
+        ],
+        "WebKit": [
+          {
+            "capture": "capture-00_2190-00.json",
+            "requested": 2190,
+            "mediaClockAtBlock": 2191.0708918570053,
+            "matchedReferenceTime": 2191.09,
+            "apparentAudioVsClockSeconds": 0.019,
+            "correlation": 0.8571515589053719,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-01_3219-98.json",
+            "requested": 3219.978752,
+            "mediaClockAtBlock": 3221.192908951992,
+            "matchedReferenceTime": 3221.285,
+            "apparentAudioVsClockSeconds": 0.092,
+            "correlation": 0.8276362354671418,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-02_4000-00.json",
+            "requested": 4000,
+            "mediaClockAtBlock": 4001.211617395014,
+            "matchedReferenceTime": 4001.302,
+            "apparentAudioVsClockSeconds": 0.09,
+            "correlation": 0.9641692017002499,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-03_400-00.json",
+            "requested": 400,
+            "mediaClockAtBlock": 400.9643219906605,
+            "matchedReferenceTime": 401.055,
+            "apparentAudioVsClockSeconds": 0.091,
+            "correlation": 0.9755772433656265,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-04_2190-00.json",
+            "requested": 2190,
+            "mediaClockAtBlock": 2191.0648712986517,
+            "matchedReferenceTime": 2191.157,
+            "apparentAudioVsClockSeconds": 0.092,
+            "correlation": 0.8029454746808354,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          },
+          {
+            "capture": "capture-05_3-00.json",
+            "requested": 3,
+            "mediaClockAtBlock": 3.939721375668024,
+            "matchedReferenceTime": 4.03,
+            "apparentAudioVsClockSeconds": 0.09,
+            "correlation": 0.9948047825921388,
+            "note": "ScriptProcessor callback clock is delayed by approximately one block; large multi-second offsets indicate seek mismatch, not this sub-0.1s capture latency."
+          }
+        ]
+      },
+      "maxAbsoluteAudioVsCallbackSeconds": 0.092,
+      "sourceDecodeAlignmentWindows": 8,
+      "sourceDecodeAlignmentAllZeroMs": true,
+      "cause": "The prior variable-bitrate MP3 could seek to sound several seconds away from the media clock. Indexed AAC avoids that approximation; caption times remain unchanged.",
+      "checkedAt": "2026-09-29T05:20:55.240372+00:00"
     }
   },
   "timingLimit": "Machine-estimated word times and stylised amplitude-driven mouths; no full human listening verification. See timing provenance for boundary estimates and the one unassigned brief backchannel."

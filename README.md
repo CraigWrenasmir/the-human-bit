@@ -22,7 +22,8 @@ Playful is the default motion level. Gentle and Lively remain available; devices
 
 - `app.js` controls the composition, captions, navigation and playback.
 - `portrait.js` contains the authored Three.js block characters. Craig faces Joshua and both have blue eye accents.
-- `assets/episode.mp3` is the complete supplied episode with fixed -3 dB gain for playback headroom and brief edge fades.
+- `assets/episode.m4a` is the indexed AAC audio used by the website for accurate random seeking.
+- `assets/episode.mp3` is the complete processed episode used by the offline video renderer, with fixed -3 dB gain for playback headroom and brief edge fades.
 - `assets/timing.json` contains full-episode speaker turns, words, caption cues, audio energy and provenance.
 - `assets/chapters.json` contains the chapter navigation.
 - `assets/episode.vtt` and `assets/episode.srt` provide captions.
@@ -31,7 +32,7 @@ Playful is the default motion level. Gentle and Lively remain available; devices
 - `tools/render.mjs` renders a deterministic 1080p video in resumable segments.
 - `validation.json` records this edition's completed checks.
 
-The page streams the audio file directly. The exported video uses the same animation and word timeline, with Playful motion fixed for the film. Mouth poses respond to speech energy, not phonemes; this is a stylised animation, not a reconstruction of either person's facial performance. Caption word timings are machine-estimated; the supplied transcript remains the wording source. Detailed alignment and speaker evidence is recorded with the timing data.
+The page streams indexed AAC audio directly. This avoids the inaccurate random seeking observed with the variable-bitrate MP3 in Chromium and WebKit. The exported video uses the same animation and word timeline, with Playful motion fixed for the film. Mouth poses respond to speech energy, not phonemes; this is a stylised animation, not a reconstruction of either person's facial performance. Caption word timings are machine-estimated; the supplied transcript remains the wording source. Detailed alignment and speaker evidence is recorded with the timing data.
 
 ## Export
 
