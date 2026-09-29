@@ -33,7 +33,7 @@ The page streams the audio file directly. The exported video uses the same anima
 
 ## Export
 
-Install Node.js, FFmpeg, and the optional renderer dependencies:
+Install Node.js 22 or later, FFmpeg, and the optional renderer dependencies:
 
 ```sh
 npm install
