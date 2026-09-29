@@ -1,0 +1,7415 @@
+1
+00:00:00,000 --> 00:00:00,980
+Josh: I would like to acknowledge the
+
+2
+00:00:00,980 --> 00:00:02,880
+Josh: traditional lands of the peoples on which
+
+3
+00:00:02,880 --> 00:00:05,220
+Josh: both this episode was recorded and from
+
+4
+00:00:05,220 --> 00:00:05,920
+Josh: where you listen.
+
+5
+00:00:05,920 --> 00:00:07,500
+Josh: As we continue to travel and experience
+
+6
+00:00:07,500 --> 00:00:09,160
+Josh: different countries and cultures around
+
+7
+00:00:09,160 --> 00:00:09,820
+Josh: the world,
+
+8
+00:00:10,120 --> 00:00:12,160
+Josh: it is important to remember that we walk
+
+9
+00:00:12,160 --> 00:00:13,720
+Josh: in the footsteps of those traditional
+
+10
+00:00:13,720 --> 00:00:15,540
+Josh: landholders that have come before us
+
+11
+00:00:15,540 --> 00:00:16,620
+Josh: wherever we may be.
+
+12
+00:00:17,340 --> 00:00:19,140
+Josh: For generations, custodians of the land
+
+13
+00:00:19,140 --> 00:00:21,280
+Josh: we live, work and raise our families on
+
+14
+00:00:21,860 --> 00:00:23,480
+Josh: have cared for and shaped our
+
+15
+00:00:23,480 --> 00:00:24,060
+Josh: surroundings.
+
+16
+00:00:24,820 --> 00:00:26,680
+Josh: We would like to recognise and thank them.
+
+17
+00:00:27,680 --> 00:00:31,700
+Craig: These walk and talk conversations with AI,
+
+18
+00:00:31,700 --> 00:00:33,432
+Craig: and it's actually you're able to maintain
+
+19
+00:00:33,432 --> 00:00:36,530
+Craig: a thought for not just a couple of
+
+20
+00:00:36,530 --> 00:00:39,110
+Craig: seconds because you're conversing and
+
+21
+00:00:39,110 --> 00:00:41,570
+Craig: reflecting and you can take a thought
+
+22
+00:00:41,570 --> 00:00:44,750
+Craig: with you as you walk and talk and really
+
+23
+00:00:44,750 --> 00:00:48,110
+Craig: take it to spaces that for many of us, if
+
+24
+00:00:48,110 --> 00:00:49,790
+Craig: we weren't having that sort of
+
+25
+00:00:49,790 --> 00:00:52,610
+Craig: conversation with AI, we'd lose track of
+
+26
+00:00:52,610 --> 00:00:54,930
+Craig: what we're thinking about and then it's gone.
+
+27
+00:01:00,380 --> 00:01:01,520
+Josh: Welcome back to the Parent Teacher
+
+28
+00:01:01,520 --> 00:01:02,500
+Josh: Interview Podcast.
+
+29
+00:01:03,260 --> 00:01:04,220
+Josh: Now, AI is probably
+
+30
+00:01:04,220 --> 00:01:04,940
+Josh: one of those topics
+
+31
+00:01:05,040 --> 00:01:06,710
+Josh: that can divide a room pretty quickly.
+
+32
+00:01:07,340 --> 00:01:08,501
+Josh: For some, it's an exciting tool that
+
+33
+00:01:08,501 --> 00:01:09,790
+Josh: could change the way
+
+34
+00:01:09,790 --> 00:01:12,110
+Josh: we learn, work, and support one another.
+
+35
+00:01:12,230 --> 00:01:13,650
+Josh: For others, there are some really
+
+36
+00:01:13,650 --> 00:01:14,470
+Josh: important questions
+
+37
+00:01:14,470 --> 00:01:16,910
+Josh: around what we might lose, how we keep
+
+38
+00:01:16,910 --> 00:01:19,130
+Josh: people safe, and where we draw the line.
+
+39
+00:01:19,910 --> 00:01:21,950
+Josh: And there are also the wider questions we need to keep
+
+40
+00:01:21,950 --> 00:01:24,070
+Josh: considering around privacy and safety,
+
+41
+00:01:24,470 --> 00:01:25,490
+Josh: the impact of AI on
+
+42
+00:01:25,490 --> 00:01:27,430
+Josh: children, and even the energy and
+
+43
+00:01:27,430 --> 00:01:29,430
+Josh: environmental cost of these technologies.
+
+44
+00:01:30,350 --> 00:01:30,990
+Josh: These are changing
+
+45
+00:01:30,990 --> 00:01:32,790
+Josh: and challenging issues and I certainly
+
+46
+00:01:32,790 --> 00:01:34,970
+Josh: don't think this conversation answers all of them by
+
+47
+00:01:34,970 --> 00:01:37,210
+Josh: any means. But whether we're ready for it
+
+48
+00:01:37,210 --> 00:01:39,190
+Josh: or not, we're moving into a world where
+
+49
+00:01:39,190 --> 00:01:40,210
+Josh: AI is going to be
+
+50
+00:01:40,210 --> 00:01:41,498
+Josh: part of the way our children learn and
+
+51
+00:01:41,498 --> 00:01:42,260
+Josh: live.
+
+52
+00:01:42,980 --> 00:01:43,940
+Josh: So I wanted to have a conversation
+
+53
+00:01:43,940 --> 00:01:45,320
+Josh: about it. Not to
+
+54
+00:01:45,320 --> 00:01:47,460
+Josh: find all the answers, but to explore some
+
+55
+00:01:47,460 --> 00:01:49,620
+Josh: of the questions. And that's exactly what
+
+56
+00:01:49,620 --> 00:01:50,120
+Josh: I got to do
+
+57
+00:01:50,120 --> 00:01:51,860
+Josh: with today's guest, Craig Smith.
+
+58
+00:01:52,660 --> 00:01:55,140
+Josh: Craig is an educator, author and international
+
+59
+00:01:55,140 --> 00:01:55,980
+Josh: speaker and
+
+60
+00:01:56,240 --> 00:01:57,740
+Josh: is currently the manager of technology
+
+61
+00:01:57,740 --> 00:01:59,960
+Josh: and innovation at Positive Partnerships.
+
+62
+00:02:00,480 --> 00:02:03,260
+Josh: He spent more than 20 years working in autism and
+
+63
+00:02:03,260 --> 00:02:05,720
+Josh: neurodivergent education and is also the
+
+64
+00:02:05,720 --> 00:02:08,560
+Josh: creator of the Universal Sandpit, a collection of
+
+65
+00:02:08,560 --> 00:02:11,340
+Josh: AI tools and ideas designed to support
+
+66
+00:02:11,340 --> 00:02:12,440
+Josh: inclusive educators
+
+67
+00:02:12,440 --> 00:02:14,500
+Josh: and neurodivergent learners.
+
+68
+00:02:15,380 --> 00:02:17,920
+Josh: We talk about AI, executive functioning,
+
+69
+00:02:18,120 --> 00:02:20,160
+Josh: creativity, education and
+
+70
+00:02:20,160 --> 00:02:21,860
+Josh: what it might look like to use technology
+
+71
+00:02:21,860 --> 00:02:24,960
+Josh: in ways that remain genuinely human. I
+
+72
+00:02:24,960 --> 00:02:25,480
+Josh: really hope you
+
+73
+00:02:25,480 --> 00:02:27,380
+Josh: enjoyed this episode, there's so much to
+
+74
+00:02:27,380 --> 00:02:29,700
+Josh: explore in this, so let's get stuck into it.
+
+75
+00:02:45,960 --> 00:02:46,540
+Josh: Craig, first
+
+76
+00:02:46,540 --> 00:02:48,635
+Josh: of all, I would really love to dig into
+
+77
+00:02:48,635 --> 00:02:51,270
+Josh: your experience as an educator, a
+
+78
+00:02:51,270 --> 00:02:52,530
+Josh: developer, an
+
+79
+00:02:52,530 --> 00:02:55,150
+Josh: author, and a range of other job titles
+
+80
+00:02:55,150 --> 00:02:57,450
+Josh: that I understand you've had. Is there any chance
+
+81
+00:02:57,450 --> 00:02:59,450
+Josh: you would give us a bit of a rundown of
+
+82
+00:02:59,450 --> 00:03:02,070
+Josh: how you have worked your way to be where you are
+
+83
+00:03:02,070 --> 00:03:02,890
+Josh: today?
+
+84
+00:03:02,890 --> 00:03:06,110
+Craig: Yeah, for sure. So I always say that my
+
+85
+00:03:06,110 --> 00:03:09,590
+Craig: first love was playing the pipe organ in
+
+86
+00:03:09,590 --> 00:03:10,090
+Craig: terms of
+
+87
+00:03:10,090 --> 00:03:13,330
+Craig: like how I got into anything to do what I'm
+
+88
+00:03:13,330 --> 00:03:15,990
+Craig: doing at the moment. I grew up playing
+
+89
+00:03:15,990 --> 00:03:19,970
+Craig: the organ and I my first job was as a pipe
+
+90
+00:03:19,970 --> 00:03:22,050
+Craig: organist for weddings and stuff when I
+
+91
+00:03:22,050 --> 00:03:24,090
+Craig: was a kid in primary
+
+92
+00:03:24,090 --> 00:03:26,810
+Craig: school and I used to be a little too
+
+93
+00:03:26,810 --> 00:03:29,370
+Craig: short to look over the organ and my mum
+
+94
+00:03:29,370 --> 00:03:30,510
+Craig: would sit next to me and
+
+95
+00:03:30,510 --> 00:03:33,230
+Craig: say oh the bride's starting to go down
+
+96
+00:03:33,230 --> 00:03:36,870
+Craig: the aisle so then I'd start to play so I
+
+97
+00:03:36,870 --> 00:03:38,990
+Craig: love music and I
+
+98
+00:03:38,990 --> 00:03:42,390
+Craig: thought maybe I could do music teaching
+
+99
+00:03:42,390 --> 00:03:45,450
+Craig: and so I looked into being a high school
+
+100
+00:03:45,450 --> 00:03:48,950
+Craig: teacher and then I got an opportunity at
+
+101
+00:03:48,950 --> 00:03:52,630
+Craig: university to do a placement in a special
+
+102
+00:03:52,630 --> 00:03:53,870
+Craig: education setting
+
+103
+00:03:53,870 --> 00:03:55,790
+Craig: which was one of our sort of mandatory
+
+104
+00:03:55,790 --> 00:03:59,370
+Craig: units as part of teaching and it just it
+
+105
+00:03:59,370 --> 00:04:00,290
+Craig: blew me away
+
+106
+00:04:00,290 --> 00:04:04,090
+Craig: and I loved it and so I pivoted from high
+
+107
+00:04:04,090 --> 00:04:06,290
+Craig: school music teaching to special
+
+108
+00:04:06,290 --> 00:04:07,890
+Craig: education because it
+
+109
+00:04:07,930 --> 00:04:10,530
+Craig: It felt like a space where I could bring
+
+110
+00:04:10,530 --> 00:04:12,830
+Craig: all these different fun things that I
+
+111
+00:04:12,830 --> 00:04:14,130
+Craig: enjoy, like
+
+112
+00:04:14,130 --> 00:04:17,690
+Craig: music and movie making, all sorts of
+
+113
+00:04:17,690 --> 00:04:20,410
+Craig: creative practices that it felt like
+
+114
+00:04:20,410 --> 00:04:21,450
+Craig: special education
+
+115
+00:04:21,450 --> 00:04:25,350
+Craig: just said, here's a blank canvas, you
+
+116
+00:04:25,350 --> 00:04:28,130
+Craig: bring whatever you want to this space and engage
+
+117
+00:04:28,570 --> 00:04:30,205
+Craig: the kids and just create different
+
+118
+00:04:30,205 --> 00:04:32,910
+Craig: learning experiences.
+
+119
+00:04:32,910 --> 00:04:35,710
+Craig: And so that just won me over.
+
+120
+00:04:35,710 --> 00:04:37,620
+Craig: And I did that.
+
+121
+00:04:37,620 --> 00:04:40,090
+Craig: And then one of my first teaching jobs
+
+122
+00:04:40,090 --> 00:04:43,960
+Craig: was in an autism education environment.
+
+123
+00:04:43,960 --> 00:04:46,130
+Craig: I previously had no experience with
+
+124
+00:04:46,130 --> 00:04:48,090
+Craig: autism and didn't understand anything
+
+125
+00:04:48,090 --> 00:04:48,630
+Craig: about that
+
+126
+00:04:48,630 --> 00:04:52,510
+Craig: space, quickly got up to speed in real
+
+127
+00:04:52,510 --> 00:04:55,270
+Craig: time with the classroom.
+
+128
+00:04:55,270 --> 00:04:57,210
+Craig: Yeah, and then I've professionally spent
+
+129
+00:04:57,210 --> 00:04:59,830
+Craig: 20 years now in autism education.
+
+130
+00:05:00,750 --> 00:05:03,197
+Craig: As part of that sort of work, I did
+
+131
+00:05:03,197 --> 00:05:06,390
+Craig: classroom teaching, but then I also did
+
+132
+00:05:06,390 --> 00:05:07,130
+Craig: what they call
+
+133
+00:05:07,130 --> 00:05:11,270
+Craig: educational outreach where I got to visit
+
+134
+00:05:11,270 --> 00:05:14,110
+Craig: other schools and travel around New South
+
+135
+00:05:14,110 --> 00:05:14,870
+Craig: Wales but
+
+136
+00:05:14,870 --> 00:05:19,190
+Craig: also the whole country and do sort of
+
+137
+00:05:19,190 --> 00:05:22,050
+Craig: observations where I'd sit at the back of
+
+138
+00:05:22,070 --> 00:05:23,090
+Craig: classrooms and watch
+
+139
+00:05:23,090 --> 00:05:26,910
+Craig: teachers teaching mainstream classrooms
+
+140
+00:05:26,910 --> 00:05:29,570
+Craig: that had autistic students in them and
+
+141
+00:05:29,870 --> 00:05:30,730
+Craig: then I would talk
+
+142
+00:05:30,730 --> 00:05:32,530
+Craig: to the teacher afterwards and we'd say
+
+143
+00:05:32,530 --> 00:05:34,390
+Craig: well what sort of strategies can we use
+
+144
+00:05:34,390 --> 00:05:35,150
+Craig: to better support
+
+145
+00:05:35,150 --> 00:05:37,340
+Craig: these students so for a good couple of
+
+146
+00:05:37,340 --> 00:05:40,730
+Craig: years i just had the opportunity to watch
+
+147
+00:05:40,730 --> 00:05:41,530
+Craig: thousands of
+
+148
+00:05:41,530 --> 00:05:43,970
+Craig: different teachers across the the country
+
+149
+00:05:43,970 --> 00:05:47,130
+Craig: which you know if only everybody could
+
+150
+00:05:47,130 --> 00:05:47,990
+Craig: just watch other
+
+151
+00:05:47,990 --> 00:05:48,890
+Craig: teachers teach
+
+152
+00:05:48,890 --> 00:05:49,630
+Speaker unclear: yeah
+
+153
+00:05:49,630 --> 00:05:51,350
+Craig: and get that constant
+
+154
+00:05:51,350 --> 00:05:54,330
+Craig: feedback and conversation it was so
+
+155
+00:05:54,330 --> 00:05:57,130
+Craig: enriching and i i look
+
+156
+00:05:57,130 --> 00:06:00,110
+Craig: at that period as my real formative years
+
+157
+00:06:00,110 --> 00:06:02,550
+Craig: of like i did what i could as a teacher
+
+158
+00:06:02,550 --> 00:06:03,390
+Craig: in the classroom
+
+159
+00:06:03,390 --> 00:06:05,630
+Craig: then what i did outreach i learned a lot
+
+160
+00:06:05,630 --> 00:06:08,530
+Craig: went back to teaching and then through different
+
+161
+00:06:08,530 --> 00:06:11,293
+Craig: pathways i i work now for an autism
+
+162
+00:06:11,293 --> 00:06:15,040
+Craig: education project that's like a
+
+163
+00:06:15,040 --> 00:06:16,280
+Craig: government funded initiative
+
+164
+00:06:16,280 --> 00:06:19,840
+Craig: that we run free autism workshops for
+
+165
+00:06:19,840 --> 00:06:23,160
+Craig: educators and families across the country
+
+166
+00:06:23,160 --> 00:06:24,980
+Craig: and i still get
+
+167
+00:06:24,980 --> 00:06:26,980
+Craig: involved in teaching where i can and i
+
+168
+00:06:26,980 --> 00:06:28,760
+Craig: still get back into the classroom when i
+
+169
+00:06:28,760 --> 00:06:30,060
+Craig: can and it may be
+
+170
+00:06:30,060 --> 00:06:32,260
+Craig: my future as well because this is just a
+
+171
+00:06:32,260 --> 00:06:35,920
+Craig: temporary role but it's um I guess it's
+
+172
+00:06:35,920 --> 00:06:36,860
+Craig: another side of
+
+173
+00:06:36,860 --> 00:06:39,500
+Craig: working with teachers and professional learning
+
+174
+00:06:39,500 --> 00:06:41,960
+Josh: that's such a broad and valuable
+
+175
+00:06:41,960 --> 00:06:42,500
+Josh: range of
+
+176
+00:06:42,500 --> 00:06:44,475
+Josh: experiences I guess that you've had
+
+177
+00:06:44,475 --> 00:06:48,010
+Josh: across those couple of decades and like
+
+178
+00:06:48,010 --> 00:06:49,230
+Josh: you say has enriched
+
+179
+00:06:49,230 --> 00:06:51,450
+Josh: your own teaching by the sounds of it and
+
+180
+00:06:51,450 --> 00:06:53,830
+Josh: given you some really valuable tools to
+
+181
+00:06:53,830 --> 00:06:54,430
+Josh: then support
+
+182
+00:06:54,430 --> 00:06:56,630
+Josh: other people which I think is such a
+
+183
+00:06:56,630 --> 00:06:59,190
+Josh: fantastic thing to be able to share a big
+
+184
+00:06:59,190 --> 00:07:00,070
+Josh: part of the work
+
+185
+00:07:00,170 --> 00:07:01,270
+Josh: that I understand you've been doing
+
+186
+00:07:01,270 --> 00:07:03,990
+Josh: lately as well has been in the education
+
+187
+00:07:03,990 --> 00:07:05,830
+Josh: and development of AI
+
+188
+00:07:05,830 --> 00:07:09,770
+Josh: for neurodiverse minds and I wondered if
+
+189
+00:07:09,770 --> 00:07:11,450
+Josh: you're able to share with us what first
+
+190
+00:07:11,450 --> 00:07:12,030
+Josh: led you to
+
+191
+00:07:12,030 --> 00:07:14,210
+Josh: becoming interested in that space and
+
+192
+00:07:14,210 --> 00:07:16,410
+Josh: then how that's developed for you over
+
+193
+00:07:16,410 --> 00:07:17,070
+Josh: time with what
+
+194
+00:07:17,070 --> 00:07:17,790
+Josh: you've worked on
+
+195
+00:07:17,910 --> 00:07:19,210
+Craig: yeah I've I've always
+
+196
+00:07:19,210 --> 00:07:23,190
+Craig: been pretty interested in technology and
+
+197
+00:07:23,190 --> 00:07:24,510
+Craig: what it can do I've
+
+198
+00:07:24,510 --> 00:07:27,110
+Craig: also always had a complex relationship
+
+199
+00:07:27,110 --> 00:07:30,590
+Craig: with technology. I like technology for
+
+200
+00:07:30,590 --> 00:07:31,490
+Craig: what it can do
+
+201
+00:07:31,490 --> 00:07:33,730
+Craig: for you as an individual, but sometimes
+
+202
+00:07:33,730 --> 00:07:36,610
+Craig: when I see the mass rollout of technology
+
+203
+00:07:36,610 --> 00:07:38,650
+Craig: for everybody,
+
+204
+00:07:38,650 --> 00:07:40,550
+Craig: I stand back and think, I actually don't
+
+205
+00:07:40,550 --> 00:07:43,750
+Craig: think that's great. There's things that
+
+206
+00:07:43,750 --> 00:07:44,370
+Craig: on an individual
+
+207
+00:07:44,370 --> 00:07:46,730
+Craig: level, I think, oh, that's really clever.
+
+208
+00:07:46,730 --> 00:07:48,530
+Craig: You could hack this together. You could
+
+209
+00:07:48,570 --> 00:07:49,370
+Craig: do this little thing
+
+210
+00:07:49,370 --> 00:07:51,730
+Craig: that's cool but the moment it becomes
+
+211
+00:07:51,730 --> 00:07:54,162
+Craig: like you know on the breadth of society a
+
+212
+00:07:54,162 --> 00:07:55,320
+Craig: society-wide
+
+213
+00:07:55,320 --> 00:07:58,280
+Craig: implementation of tech i start to worry
+
+214
+00:07:58,280 --> 00:08:01,780
+Craig: so my history with technology has been a
+
+215
+00:08:01,780 --> 00:08:02,560
+Craig: bit like that
+
+216
+00:08:02,560 --> 00:08:06,200
+Craig: i really got my teeth in into like the
+
+217
+00:08:06,200 --> 00:08:09,040
+Craig: relationship between technology and
+
+218
+00:08:09,040 --> 00:08:11,460
+Craig: inclusive education by
+
+219
+00:08:11,460 --> 00:08:14,240
+Craig: really getting acquainted with the ipad
+
+220
+00:08:14,240 --> 00:08:17,220
+Craig: when it came out and the ipad to me felt
+
+221
+00:08:17,220 --> 00:08:18,560
+Craig: like this such
+
+222
+00:08:18,560 --> 00:08:20,860
+Craig: an interesting piece of tech that like
+
+223
+00:08:21,300 --> 00:08:23,567
+Craig: classrooms before that you know you had
+
+224
+00:08:23,567 --> 00:08:24,280
+Craig: your big desktop
+
+225
+00:08:24,280 --> 00:08:27,400
+Craig: computers on the table and some of them
+
+226
+00:08:27,400 --> 00:08:29,103
+Craig: were literally drilled into the desk like
+
+227
+00:08:29,103 --> 00:08:29,890
+Craig: this will
+
+228
+00:08:29,890 --> 00:08:33,510
+Craig: never move you know and then suddenly you've
+
+229
+00:08:33,510 --> 00:08:36,590
+Craig: got this device that you can go outside
+
+230
+00:08:36,590 --> 00:08:37,170
+Craig: and you can
+
+231
+00:08:37,170 --> 00:08:39,890
+Craig: film and you can like you know draw on it
+
+232
+00:08:39,890 --> 00:08:41,990
+Craig: eventually and all these things that I thought
+
+233
+00:08:41,990 --> 00:08:45,130
+Craig: this is interesting so i um started to
+
+234
+00:08:45,130 --> 00:08:49,090
+Craig: work with with with apple as what they
+
+235
+00:08:49,090 --> 00:08:49,830
+Craig: call their apple
+
+236
+00:08:49,830 --> 00:08:52,450
+Craig: distinguished educator program which was
+
+237
+00:08:52,450 --> 00:08:54,570
+Craig: where i guess you know different folks
+
+238
+00:08:54,570 --> 00:08:55,790
+Craig: who are fluent
+
+239
+00:08:55,790 --> 00:08:58,350
+Craig: with using the apple tools and can use
+
+240
+00:08:58,350 --> 00:09:00,430
+Craig: them for education we'd get together and
+
+241
+00:09:00,450 --> 00:09:01,310
+Craig: share notes you
+
+242
+00:09:01,310 --> 00:09:03,320
+Craig: know and sort of show sort of things that
+
+243
+00:09:03,320 --> 00:09:07,230
+Craig: we're doing and that was a majorly enriching
+
+244
+00:09:07,650 --> 00:09:11,390
+Craig: experience for me to meet others around the world,
+
+245
+00:09:11,390 --> 00:09:14,030
+Craig: including some incredible special
+
+246
+00:09:14,030 --> 00:09:15,830
+Craig: educators from Japan
+
+247
+00:09:15,830 --> 00:09:20,390
+Craig: who just came with this bag of tricks and
+
+248
+00:09:20,390 --> 00:09:23,490
+Craig: bag of strategies for how they were using
+
+249
+00:09:23,490 --> 00:09:25,650
+Craig: Apple technology in the classroom.
+
+250
+00:09:25,650 --> 00:09:27,790
+Craig: And I was just blown away.
+
+251
+00:09:27,790 --> 00:09:30,290
+Craig: So that was so much fun.
+
+252
+00:09:30,370 --> 00:09:34,130
+Craig: I think from that space of technology and
+
+253
+00:09:34,130 --> 00:09:36,390
+Craig: inclusive education, I kept being
+
+254
+00:09:36,390 --> 00:09:39,700
+Craig: interested in where it was leading and then when
+
+255
+00:09:39,700 --> 00:09:43,360
+Craig: chat gpt came out and i think we all
+
+256
+00:09:43,360 --> 00:09:45,120
+Craig: probably downloaded it
+
+257
+00:09:45,260 --> 00:09:47,320
+Craig: asked it to do things and just thought
+
+258
+00:09:47,320 --> 00:09:49,740
+Craig: this feels really different you know this
+
+259
+00:09:49,740 --> 00:09:51,140
+Craig: is a technology
+
+260
+00:09:51,140 --> 00:09:53,800
+Craig: that's remembering things and talking
+
+261
+00:09:54,420 --> 00:09:56,900
+Craig: back and creating things and it felt like
+
+262
+00:09:57,240 --> 00:09:57,900
+Craig: something really
+
+263
+00:09:57,900 --> 00:10:00,920
+Craig: different was happening and i thought
+
+264
+00:10:00,920 --> 00:10:04,080
+Craig: well is this an opportunity again to to
+
+265
+00:10:04,080 --> 00:10:06,060
+Craig: see what it can do
+
+266
+00:10:06,120 --> 00:10:08,663
+Craig: on an individual level and not think
+
+267
+00:10:08,663 --> 00:10:12,170
+Craig: about scaling it up to a whole school or
+
+268
+00:10:12,170 --> 00:10:13,890
+Craig: anything beyond just
+
+269
+00:10:13,890 --> 00:10:17,350
+Craig: what it can do for one person and that to
+
+270
+00:10:17,350 --> 00:10:20,070
+Craig: me was really interesting so i i did
+
+271
+00:10:20,070 --> 00:10:20,930
+Craig: experiments with
+
+272
+00:10:20,930 --> 00:10:23,270
+Craig: myself and thought how's it going to
+
+273
+00:10:23,270 --> 00:10:25,890
+Craig: support my lifestyle and how i want to
+
+274
+00:10:25,890 --> 00:10:27,590
+Craig: think and work and
+
+275
+00:10:27,590 --> 00:10:30,430
+Craig: then let's try it with some some with
+
+276
+00:10:30,430 --> 00:10:33,390
+Craig: some young people and and see what it can
+
+277
+00:10:33,390 --> 00:10:34,450
+Craig: do to support
+
+278
+00:10:34,450 --> 00:10:37,250
+Craig: different parts of autistic learning and
+
+279
+00:10:37,250 --> 00:10:41,303
+Craig: communication and interaction and again i
+
+280
+00:10:41,303 --> 00:10:43,760
+Craig: was particularly interested in trying to find
+
+281
+00:10:43,760 --> 00:10:46,340
+Craig: other things it can do that it shouldn't
+
+282
+00:10:46,340 --> 00:10:47,140
+Craig: do you know
+
+283
+00:10:47,140 --> 00:10:50,020
+Craig: like instead of just thinking sit the
+
+284
+00:10:50,020 --> 00:10:53,440
+Craig: child down in front of chat jpt it's like
+
+285
+00:10:53,440 --> 00:10:54,360
+Craig: what would happen
+
+286
+00:10:54,360 --> 00:10:56,600
+Craig: if you went for a walk around the block
+
+287
+00:10:56,600 --> 00:10:59,760
+Craig: with an ipad or a phone and each time you
+
+288
+00:10:59,760 --> 00:11:00,500
+Craig: saw something
+
+289
+00:11:00,500 --> 00:11:02,380
+Craig: that you didn't understand how it worked
+
+290
+00:11:02,380 --> 00:11:05,940
+Craig: like the power poles you know that carry
+
+291
+00:11:05,940 --> 00:11:07,040
+Craig: electricity or the
+
+292
+00:11:07,040 --> 00:11:10,760
+Craig: phone lines what if you ask chat jpt tell
+
+293
+00:11:10,760 --> 00:11:13,880
+Craig: me tell me how that works tell me all the
+
+294
+00:11:13,880 --> 00:11:16,780
+Craig: things in the neighborhood that i don't know how they
+
+295
+00:11:16,780 --> 00:11:19,560
+Craig: work can you help me understand that i
+
+296
+00:11:19,560 --> 00:11:20,180
+Craig: thought this is
+
+297
+00:11:20,180 --> 00:11:22,220
+Craig: different this is a really different way
+
+298
+00:11:22,220 --> 00:11:25,220
+Craig: to think about technology and um yeah
+
+299
+00:11:25,220 --> 00:11:26,000
+Craig: that that was sort of
+
+300
+00:11:26,000 --> 00:11:28,860
+Craig: my entry point into thinking how is it
+
+301
+00:11:28,860 --> 00:11:30,960
+Craig: going to play a role in inclusive
+
+302
+00:11:30,960 --> 00:11:32,800
+Craig: education that remains
+
+303
+00:11:32,800 --> 00:11:36,120
+Craig: very human you know and and tries to
+
+304
+00:11:36,680 --> 00:11:38,980
+Craig: build on people's strengths and instead
+
+305
+00:11:38,980 --> 00:11:40,740
+Craig: of saying we don't
+
+306
+00:11:40,740 --> 00:11:43,640
+Craig: need you anymore you know how do we keep
+
+307
+00:11:43,640 --> 00:11:45,080
+Craig: everything healthy
+
+308
+00:11:52,400 --> 00:11:53,875
+Josh: yeah no that's such a fascinating way of
+
+309
+00:11:53,875 --> 00:11:56,470
+Josh: looking at it and exploring it as it's
+
+310
+00:11:56,470 --> 00:11:58,430
+Josh: sort of happening in real time i think is
+
+311
+00:11:58,770 --> 00:11:59,270
+Josh: really interesting
+
+312
+00:11:59,270 --> 00:12:02,170
+Josh: as well. I was fortunate recently to be
+
+313
+00:12:02,170 --> 00:12:05,910
+Josh: put onto your TEDx talk, and I was really
+
+314
+00:12:05,910 --> 00:12:06,470
+Josh: interested in
+
+315
+00:12:06,470 --> 00:12:08,470
+Josh: hearing you speak about some of these
+
+316
+00:12:08,470 --> 00:12:10,850
+Josh: uses that you have found for AI in your
+
+317
+00:12:10,850 --> 00:12:12,570
+Josh: own life. And I'm
+
+318
+00:12:12,830 --> 00:12:14,650
+Josh: hoping that you might be able to unpack
+
+319
+00:12:14,650 --> 00:12:15,850
+Josh: the role that this has played in
+
+320
+00:12:15,850 --> 00:12:16,790
+Josh: supporting executive
+
+321
+00:12:16,790 --> 00:12:20,450
+Josh: functioning through this idea of walking
+
+322
+00:12:20,450 --> 00:12:24,430
+Josh: and thinking, and these three components that you
+
+323
+00:12:24,430 --> 00:12:27,090
+Josh: developed of rhythm insight and play are
+
+324
+00:12:27,090 --> 00:12:29,010
+Josh: you able to expand on that for us
+
+325
+00:12:29,010 --> 00:12:30,990
+Craig: yeah absolutely josh and
+
+326
+00:12:30,990 --> 00:12:35,090
+Craig: i still i walk and talk with ai every
+
+327
+00:12:35,090 --> 00:12:37,890
+Craig: single day i don't think i've missed a
+
+328
+00:12:37,990 --> 00:12:39,730
+Craig: day in three
+
+329
+00:12:39,730 --> 00:12:44,070
+Craig: plus years since it's been been out which
+
+330
+00:12:44,070 --> 00:12:46,450
+Craig: for people listening and watching this
+
+331
+00:12:47,030 --> 00:12:49,470
+Craig: will either think well this tells me a lot about craig
+
+332
+00:12:49,470 --> 00:12:53,450
+Craig: or it's just it's something that i still
+
+333
+00:12:53,450 --> 00:12:55,250
+Craig: think for me it's
+
+334
+00:12:55,250 --> 00:12:57,950
+Craig: it's endlessly enriching like i for
+
+335
+00:12:57,950 --> 00:13:00,930
+Craig: example you know so what just to go back
+
+336
+00:13:00,930 --> 00:13:02,550
+Craig: a step the the voice
+
+337
+00:13:02,550 --> 00:13:06,430
+Craig: mode in chat gpt but also there's voice
+
+338
+00:13:06,430 --> 00:13:10,250
+Craig: modes in really every major ai app now um
+
+339
+00:13:10,250 --> 00:13:10,890
+Craig: you know claude
+
+340
+00:13:11,850 --> 00:13:15,330
+Craig: grok regardless really they've almost all
+
+341
+00:13:15,330 --> 00:13:17,930
+Craig: got it as well as smaller smaller ai
+
+342
+00:13:17,930 --> 00:13:19,450
+Craig: tools there was one
+
+343
+00:13:19,450 --> 00:13:22,095
+Craig: a couple of maybe 18 months ago called
+
+344
+00:13:22,095 --> 00:13:26,200
+Craig: hume after the philosopher hume and it
+
+345
+00:13:26,200 --> 00:13:28,400
+Craig: was an emotional ai
+
+346
+00:13:28,400 --> 00:13:31,460
+Craig: that when you talked to it it had a
+
+347
+00:13:31,460 --> 00:13:35,000
+Craig: little visual map on the screen that in
+
+348
+00:13:35,000 --> 00:13:37,160
+Craig: real time analyzed how
+
+349
+00:13:37,160 --> 00:13:39,000
+Craig: your voice was sounding in terms of the
+
+350
+00:13:39,000 --> 00:13:41,560
+Craig: emotion and then you could see the bot
+
+351
+00:13:41,560 --> 00:13:42,320
+Craig: would be like oh
+
+352
+00:13:42,320 --> 00:13:45,400
+Craig: Craig's happy I'll be happy in response
+
+353
+00:13:45,400 --> 00:13:48,380
+Craig: and if I said something in a sad voice it
+
+354
+00:13:48,380 --> 00:13:49,060
+Craig: would go to the
+
+355
+00:13:49,060 --> 00:13:51,920
+Craig: supportive part of the map and be like I'm
+
+356
+00:13:51,920 --> 00:13:53,420
+Craig: sorry to hear you're not you're sounding
+
+357
+00:13:53,420 --> 00:13:54,220
+Craig: a bit down what
+
+358
+00:13:54,220 --> 00:13:56,500
+Craig: could I do so yeah I thought this is all
+
+359
+00:13:56,500 --> 00:13:58,900
+Craig: this is all very interesting you know in
+
+360
+00:13:58,900 --> 00:13:59,880
+Craig: terms of like
+
+361
+00:13:59,900 --> 00:14:02,940
+Craig: this conversation and again for people
+
+362
+00:14:02,940 --> 00:14:06,500
+Craig: who find it a bit of that uncanny valley
+
+363
+00:14:06,500 --> 00:14:08,140
+Craig: of what is it like
+
+364
+00:14:08,140 --> 00:14:10,600
+Craig: to have a conversation with these these
+
+365
+00:14:10,600 --> 00:14:14,160
+Craig: systems i think if if you can get into
+
+366
+00:14:14,160 --> 00:14:15,780
+Craig: the flow and just
+
+367
+00:14:15,780 --> 00:14:18,920
+Craig: think i'll give this a go and talk to
+
+368
+00:14:18,920 --> 00:14:22,400
+Craig: this ai tool it's quite incredible just
+
+369
+00:14:22,400 --> 00:14:23,640
+Craig: how quickly you can
+
+370
+00:14:23,640 --> 00:14:26,600
+Craig: establish a natural dialogue back and
+
+371
+00:14:26,600 --> 00:14:29,560
+Craig: forth and from the early days in which
+
+372
+00:14:29,560 --> 00:14:30,420
+Craig: the conversations
+
+373
+00:14:30,540 --> 00:14:33,380
+Craig: were very stilted like you'd say
+
+374
+00:14:33,760 --> 00:14:36,040
+Craig: something wait 30 seconds and then it
+
+375
+00:14:36,040 --> 00:14:37,100
+Craig: would talk back and you'd
+
+376
+00:14:37,420 --> 00:14:40,360
+Craig: go back and forth now it's in such real
+
+377
+00:14:40,600 --> 00:14:44,400
+Craig: time and not only that but for me who's I've
+
+378
+00:14:44,400 --> 00:14:44,900
+Craig: been you know
+
+379
+00:14:44,900 --> 00:14:46,620
+Craig: having these daily conversations for
+
+380
+00:14:46,740 --> 00:14:50,720
+Craig: three years I will say something like I'll
+
+381
+00:14:50,740 --> 00:14:52,280
+Craig: say I want to work
+
+382
+00:14:52,320 --> 00:14:55,220
+Craig: on a new project i've got this essay that
+
+383
+00:14:55,220 --> 00:14:57,120
+Craig: i'd like to write on this particular
+
+384
+00:14:57,200 --> 00:14:58,480
+Craig: topic and it will go
+
+385
+00:14:58,740 --> 00:15:01,220
+Craig: through three years of memories and
+
+386
+00:15:01,220 --> 00:15:04,420
+Craig: conversations and say oh that sounds like something two years
+
+387
+00:15:04,420 --> 00:15:08,580
+Craig: ago on may the 4th of 2024 you know that
+
+388
+00:15:08,580 --> 00:15:11,220
+Craig: you were talking about um would you like
+
+389
+00:15:11,220 --> 00:15:12,060
+Craig: would you like to
+
+390
+00:15:12,060 --> 00:15:14,360
+Craig: bring some information from that to your
+
+391
+00:15:14,360 --> 00:15:17,240
+Craig: current project and i think no one else
+
+392
+00:15:17,240 --> 00:15:18,620
+Craig: in my life you
+
+393
+00:15:18,620 --> 00:15:22,500
+Craig: would know that level of depth of the
+
+394
+00:15:22,500 --> 00:15:25,280
+Craig: private interests and little, you know,
+
+395
+00:15:25,280 --> 00:15:25,940
+Craig: projects that
+
+396
+00:15:25,940 --> 00:15:28,900
+Craig: you work on. So I find that very
+
+397
+00:15:28,900 --> 00:15:31,260
+Craig: interesting. And as I started to get
+
+398
+00:15:31,260 --> 00:15:32,340
+Craig: interested in it myself,
+
+399
+00:15:32,340 --> 00:15:35,693
+Craig: I thought, what is this actually doing?
+
+400
+00:15:35,693 --> 00:15:38,748
+Craig: And like you mentioned earlier, the realm
+
+401
+00:15:38,748 --> 00:15:41,610
+Craig: of executive functioning, which is one of
+
+402
+00:15:41,610 --> 00:15:45,510
+Craig: the most, to me, it's the critical thing
+
+403
+00:15:45,510 --> 00:15:47,210
+Craig: for educators to
+
+404
+00:15:47,210 --> 00:15:49,930
+Craig: understand about how children and young
+
+405
+00:15:49,930 --> 00:15:53,390
+Craig: people work in the classroom. And I feel
+
+406
+00:15:53,390 --> 00:15:54,350
+Craig: it's often
+
+407
+00:15:54,350 --> 00:15:56,630
+Craig: underrepresented or like it's not
+
+408
+00:15:56,630 --> 00:16:00,450
+Craig: understood very well, just how much when
+
+409
+00:16:00,450 --> 00:16:01,230
+Craig: a student in the
+
+410
+00:16:01,230 --> 00:16:03,490
+Craig: classroom is struggling to do something.
+
+411
+00:16:03,590 --> 00:16:06,250
+Craig: To me, I always do a little audit and say,
+
+412
+00:16:06,250 --> 00:16:08,450
+Craig: well, what part of executive functioning are
+
+413
+00:16:08,990 --> 00:16:11,770
+Craig: they having a challenge with? Is it task
+
+414
+00:16:11,770 --> 00:16:12,620
+Craig: initiation,
+
+415
+00:16:12,620 --> 00:16:15,010
+Craig: you know, being able to know how to start
+
+416
+00:16:15,010 --> 00:16:15,910
+Craig: a task.
+
+417
+00:16:15,910 --> 00:16:17,150
+Craig: Is it planning?
+
+418
+00:16:17,150 --> 00:16:19,270
+Craig: Is it organizing their thoughts?
+
+419
+00:16:19,270 --> 00:16:20,670
+Craig: Is it resource management?
+
+420
+00:16:20,670 --> 00:16:23,050
+Craig: Like, there's so many things you can
+
+421
+00:16:23,050 --> 00:16:23,590
+Craig: unpack
+
+422
+00:16:23,590 --> 00:16:25,930
+Craig: from this realm of executive functioning
+
+423
+00:16:25,930 --> 00:16:28,250
+Craig: that are so important for students.
+
+424
+00:16:28,250 --> 00:16:29,910
+Craig: And I thought, I think there's a lot of
+
+425
+00:16:29,910 --> 00:16:31,410
+Craig: that being unpacked
+
+426
+00:16:31,430 --> 00:16:33,710
+Craig: in these conversations that you can have
+
+427
+00:16:33,710 --> 00:16:35,170
+Craig: with AI.
+
+428
+00:16:35,350 --> 00:16:37,190
+Craig: And I know one of the examples that I
+
+429
+00:16:37,190 --> 00:16:39,230
+Craig: give, and it's an example that I've borrowed
+
+430
+00:16:39,370 --> 00:16:41,350
+Craig: from someone else
+
+431
+00:16:41,350 --> 00:16:44,630
+Craig: who works in this space but they talk
+
+432
+00:16:44,630 --> 00:16:47,400
+Craig: about executive functioning being like the administration
+
+433
+00:16:47,400 --> 00:16:51,450
+Craig: team of the brain you know if you think
+
+434
+00:16:51,450 --> 00:16:54,830
+Craig: of it in that sense it's like if you go
+
+435
+00:16:54,830 --> 00:16:56,370
+Craig: into an office
+
+436
+00:16:56,370 --> 00:16:58,970
+Craig: or a hospital saying you meet the front
+
+437
+00:16:58,970 --> 00:17:02,470
+Craig: office some of us have a front desk that's
+
+438
+00:17:02,950 --> 00:17:03,730
+Craig: got three
+
+439
+00:17:03,730 --> 00:17:07,770
+Craig: full-time staff who are always organizing
+
+440
+00:17:07,770 --> 00:17:10,450
+Craig: and communicating and managing the
+
+441
+00:17:10,450 --> 00:17:14,210
+Craig: calendar and they're very efficient and for people
+
+442
+00:17:14,210 --> 00:17:17,290
+Craig: who have an administration desk in their head
+
+443
+00:17:17,290 --> 00:17:20,030
+Craig: with all those full-time workers they
+
+444
+00:17:20,030 --> 00:17:22,430
+Craig: often are very well organized and their
+
+445
+00:17:22,430 --> 00:17:23,810
+Craig: time management's
+
+446
+00:17:23,810 --> 00:17:26,410
+Craig: excellent but for some of us our
+
+447
+00:17:26,410 --> 00:17:29,030
+Craig: administration teams are quite under-resourced
+
+448
+00:17:29,030 --> 00:17:30,490
+Craig: and we might have
+
+449
+00:17:30,490 --> 00:17:34,230
+Craig: one part-time person working and trying
+
+450
+00:17:34,230 --> 00:17:36,430
+Craig: to do a lot of different jobs and it's
+
+451
+00:17:36,430 --> 00:17:37,430
+Craig: like well if that's
+
+452
+00:17:37,430 --> 00:17:40,890
+Craig: the case then what can support that gap
+
+453
+00:17:41,010 --> 00:17:44,330
+Craig: and and and the need to better resource
+
+454
+00:17:44,330 --> 00:17:45,190
+Craig: that executive
+
+455
+00:17:45,190 --> 00:17:48,270
+Craig: functioning and to me i thought well when
+
+456
+00:17:48,270 --> 00:17:50,070
+Craig: we're having these walk and talk
+
+457
+00:17:50,070 --> 00:17:51,790
+Craig: conversations with ai
+
+458
+00:17:51,790 --> 00:17:54,550
+Craig: we're talking aloud having our thoughts
+
+459
+00:17:54,550 --> 00:17:56,563
+Craig: fed back to us and it's actually you're
+
+460
+00:17:56,563 --> 00:17:58,130
+Craig: able to maintain
+
+461
+00:17:58,130 --> 00:18:01,310
+Craig: a thought for not just a couple of
+
+462
+00:18:01,310 --> 00:18:04,530
+Craig: seconds but for minutes maybe for hours
+
+463
+00:18:04,530 --> 00:18:06,250
+Craig: because you're
+
+464
+00:18:06,590 --> 00:18:09,330
+Craig: conversing and reflecting and you can
+
+465
+00:18:09,330 --> 00:18:12,030
+Craig: take a thought with you as you walk and
+
+466
+00:18:12,030 --> 00:18:13,810
+Craig: talk and really
+
+467
+00:18:13,810 --> 00:18:16,570
+Craig: look like take it to spaces that for many
+
+468
+00:18:16,570 --> 00:18:19,170
+Craig: of us if we weren't having that sort of
+
+469
+00:18:19,430 --> 00:18:20,210
+Craig: conversation with
+
+470
+00:18:20,210 --> 00:18:23,430
+Craig: ai the thoughts might just drift away and
+
+471
+00:18:23,430 --> 00:18:24,970
+Craig: we'd lose track of what we're thinking
+
+472
+00:18:24,990 --> 00:18:26,210
+Craig: about and then
+
+473
+00:18:26,210 --> 00:18:27,970
+Craig: it's then it's gone so i thought this
+
+474
+00:18:27,970 --> 00:18:30,270
+Craig: this this is quite an interesting tool
+
+475
+00:18:30,270 --> 00:18:31,075
+Craig: and it's also recording
+
+476
+00:18:31,075 --> 00:18:33,660
+Craig: everything that we're saying so you know
+
+477
+00:18:33,660 --> 00:18:36,260
+Craig: i i started to do some little experiments
+
+478
+00:18:36,260 --> 00:18:36,860
+Craig: myself
+
+479
+00:18:36,860 --> 00:18:39,960
+Craig: and then with some adults who are neurodivergent
+
+480
+00:18:39,960 --> 00:18:42,980
+Craig: so a couple of friends who are autistic
+
+481
+00:18:42,980 --> 00:18:43,740
+Craig: and
+
+482
+00:18:43,740 --> 00:18:46,020
+Craig: colleagues with adhd and different
+
+483
+00:18:46,020 --> 00:18:49,020
+Craig: overlapping versions of different divergent
+
+484
+00:18:49,020 --> 00:18:50,180
+Craig: minds we said
+
+485
+00:18:50,180 --> 00:18:52,260
+Craig: let's just try some things out and see
+
+486
+00:18:52,260 --> 00:18:54,520
+Craig: what what can work and and that's where
+
+487
+00:18:54,520 --> 00:18:55,200
+Craig: you referenced
+
+488
+00:18:55,200 --> 00:18:58,160
+Craig: earlier i started to group some of the
+
+489
+00:18:58,160 --> 00:19:01,500
+Craig: experiments into the idea of r for rhythm
+
+490
+00:19:01,500 --> 00:19:03,072
+Craig: i for insight and p
+
+491
+00:19:03,072 --> 00:19:07,090
+Craig: for play and the idea was that different
+
+492
+00:19:07,090 --> 00:19:09,830
+Craig: different ways of using this walk and
+
+493
+00:19:09,830 --> 00:19:11,850
+Craig: talk with ai for rhythm
+
+494
+00:19:11,850 --> 00:19:14,690
+Craig: is that it was that idea of like walking
+
+495
+00:19:14,690 --> 00:19:17,870
+Craig: and saying okay i've got a day on today
+
+496
+00:19:17,870 --> 00:19:18,590
+Craig: at work i've
+
+497
+00:19:18,810 --> 00:19:21,050
+Craig: got four different meetings two of them
+
+498
+00:19:21,050 --> 00:19:23,030
+Craig: involve projects that i'm working on
+
+499
+00:19:23,030 --> 00:19:25,130
+Craig: currently what should
+
+500
+00:19:25,130 --> 00:19:28,070
+Craig: i do first like how do i organize my day
+
+501
+00:19:28,070 --> 00:19:30,590
+Craig: help me with time management and again
+
+502
+00:19:30,590 --> 00:19:32,070
+Craig: for people i mean
+
+503
+00:19:32,070 --> 00:19:34,330
+Craig: it's helped me immensely it's helped
+
+504
+00:19:34,330 --> 00:19:37,110
+Craig: others to just have those morning brain
+
+505
+00:19:37,110 --> 00:19:37,975
+Craig: dump conversations
+
+506
+00:19:37,975 --> 00:19:41,600
+Craig: where you say out loud everything you've
+
+507
+00:19:41,600 --> 00:19:44,380
+Craig: got on look through the calendar and say help me
+
+508
+00:19:44,380 --> 00:19:47,460
+Craig: prioritize and help me know what i should
+
+509
+00:19:47,460 --> 00:19:49,880
+Craig: work on first and even things like you
+
+510
+00:19:50,020 --> 00:19:50,540
+Craig: know i had one
+
+511
+00:19:50,540 --> 00:19:53,740
+Craig: colleague who if they had a meeting
+
+512
+00:19:53,740 --> 00:19:55,560
+Craig: coming up where they had to pitch
+
+513
+00:19:55,560 --> 00:19:56,640
+Craig: something or they had to
+
+514
+00:19:56,640 --> 00:19:59,400
+Craig: really explain the concept to someone
+
+515
+00:19:59,400 --> 00:20:02,340
+Craig: they'd say to ai i need you to role play
+
+516
+00:20:02,340 --> 00:20:03,300
+Craig: this with me
+
+517
+00:20:03,740 --> 00:20:06,700
+Craig: be like somebody someone who i need to to
+
+518
+00:20:06,700 --> 00:20:09,420
+Craig: do this i'll practice you give me
+
+519
+00:20:09,420 --> 00:20:10,538
+Craig: feedback be honest
+
+520
+00:20:10,538 --> 00:20:13,570
+Craig: tell me what i can improve and then let's
+
+521
+00:20:13,670 --> 00:20:16,310
+Craig: practice again and yeah so to say that
+
+522
+00:20:16,310 --> 00:20:16,810
+Craig: now
+
+523
+00:20:16,810 --> 00:20:19,870
+Craig: sounds very normal but five years ago
+
+524
+00:20:19,870 --> 00:20:21,970
+Craig: that would have been science fiction you know
+
+525
+00:20:21,970 --> 00:20:23,190
+Josh: yeah exactly
+
+526
+00:20:23,190 --> 00:20:25,990
+Craig: you could walk the dog around the block
+
+527
+00:20:26,390 --> 00:20:28,850
+Craig: and role play anything in the context
+
+528
+00:20:28,850 --> 00:20:29,770
+Craig: that you need to for
+
+529
+00:20:29,770 --> 00:20:32,670
+Craig: your work in in that manner and then sit
+
+530
+00:20:32,670 --> 00:20:35,030
+Craig: down at the computer afterwards look at
+
+531
+00:20:35,030 --> 00:20:35,750
+Craig: the transcript
+
+532
+00:20:35,750 --> 00:20:38,350
+Craig: ask questions upload attachments to
+
+533
+00:20:38,350 --> 00:20:40,570
+Craig: further refine some of that thinking like
+
+534
+00:20:41,050 --> 00:20:42,090
+Craig: that was just
+
+535
+00:20:42,090 --> 00:20:43,862
+Craig: an executive functioning playground to
+
+536
+00:20:43,862 --> 00:20:47,080
+Craig: think that you could have that level of
+
+537
+00:20:47,080 --> 00:20:47,800
+Craig: discussion and
+
+538
+00:20:47,800 --> 00:20:50,100
+Craig: reflection and planning and the feedback
+
+539
+00:20:50,100 --> 00:20:52,780
+Craig: loop so that that was really the idea of
+
+540
+00:20:52,900 --> 00:20:53,860
+Craig: rhythm of
+
+541
+00:20:53,860 --> 00:20:56,740
+Craig: the daily rhythm the the daily flow
+
+542
+00:20:56,740 --> 00:21:00,300
+Craig: talking thinking reflecting it back the
+
+543
+00:21:00,740 --> 00:21:02,040
+Craig: next area was
+
+544
+00:21:02,040 --> 00:21:05,200
+Craig: about about insight and i know the
+
+545
+00:21:05,200 --> 00:21:07,460
+Craig: example that i give in that talk and it's
+
+546
+00:21:07,460 --> 00:21:08,300
+Craig: still one that i think
+
+547
+00:21:08,300 --> 00:21:10,460
+Craig: about and still one that the um that my
+
+548
+00:21:10,460 --> 00:21:12,840
+Craig: friend like applies in different parts of
+
+549
+00:21:12,840 --> 00:21:13,960
+Craig: her life is
+
+550
+00:21:13,960 --> 00:21:16,735
+Craig: that she felt like she just wasn't
+
+551
+00:21:16,735 --> 00:21:20,270
+Craig: managing her time well of an evening she'd
+
+552
+00:21:20,270 --> 00:21:21,630
+Craig: come home from work
+
+553
+00:21:21,770 --> 00:21:23,510
+Craig: still knew that she had a whole bunch of
+
+554
+00:21:23,510 --> 00:21:25,490
+Craig: things she hadn't ticked off in her mind
+
+555
+00:21:25,490 --> 00:21:26,730
+Craig: and then so
+
+556
+00:21:26,730 --> 00:21:28,990
+Craig: she'd like rush through dinner thinking
+
+557
+00:21:28,990 --> 00:21:30,850
+Craig: about it the whole time and then she'd
+
+558
+00:21:30,850 --> 00:21:31,770
+Craig: sit down and do her
+
+559
+00:21:31,770 --> 00:21:34,510
+Craig: emails send this send that and then it's
+
+560
+00:21:34,510 --> 00:21:37,390
+Craig: like 11 o'clock at night and she is like
+
+561
+00:21:37,390 --> 00:21:38,010
+Craig: well now what
+
+562
+00:21:38,010 --> 00:21:41,630
+Craig: like that's my whole evening i now may
+
+563
+00:21:41,630 --> 00:21:43,430
+Craig: maybe watch half an hour of netflix and
+
+564
+00:21:43,430 --> 00:21:44,070
+Craig: go to bed
+
+565
+00:21:44,410 --> 00:21:46,130
+Craig: and she was exhausted so she thought
+
+566
+00:21:46,130 --> 00:21:49,230
+Craig: there's got to be something in my day
+
+567
+00:21:49,230 --> 00:21:50,808
+Craig: that ai can help to like
+
+568
+00:21:50,808 --> 00:21:55,240
+Craig: analyze my patterns and so she gave it
+
+569
+00:21:55,240 --> 00:21:57,660
+Craig: like and again this is everyone's comfort
+
+570
+00:21:57,660 --> 00:21:58,840
+Craig: levels of big
+
+571
+00:21:58,840 --> 00:22:00,880
+Craig: data is going to be different here but
+
+572
+00:22:00,880 --> 00:22:04,480
+Craig: she was like here's my calendar here's my
+
+573
+00:22:04,480 --> 00:22:05,940
+Craig: emails here's
+
+574
+00:22:05,940 --> 00:22:08,600
+Craig: my daily patterns here's when i leave for
+
+575
+00:22:08,600 --> 00:22:10,780
+Craig: work at home for work here's what i eat
+
+576
+00:22:10,780 --> 00:22:11,520
+Craig: of a night
+
+577
+00:22:12,020 --> 00:22:15,300
+Craig: tell me how i can fix this because i want
+
+578
+00:22:15,300 --> 00:22:20,040
+Craig: to help my lifestyle and i i got the
+
+579
+00:22:20,260 --> 00:22:21,040
+Craig: weeks of patterns
+
+580
+00:22:21,040 --> 00:22:23,600
+Craig: and was like i know what's going on here
+
+581
+00:22:23,600 --> 00:22:25,752
+Craig: you're not finishing your work during
+
+582
+00:22:25,752 --> 00:22:27,110
+Craig: your work hours
+
+583
+00:22:27,110 --> 00:22:30,010
+Craig: you say yes to things you shouldn't say
+
+584
+00:22:30,010 --> 00:22:33,490
+Craig: yes to you always you you take six hours
+
+585
+00:22:33,490 --> 00:22:34,490
+Craig: of meetings a day
+
+586
+00:22:34,490 --> 00:22:36,870
+Craig: and you've still got like three hours of
+
+587
+00:22:36,870 --> 00:22:39,570
+Craig: work that you need to do when you're not
+
+588
+00:22:39,570 --> 00:22:40,170
+Craig: in meetings
+
+589
+00:22:40,170 --> 00:22:42,140
+Craig: and so it's like here's what you're going
+
+590
+00:22:42,140 --> 00:22:43,790
+Craig: to do you're going to push back on
+
+591
+00:22:43,790 --> 00:22:45,250
+Craig: meetings i'll write
+
+592
+00:22:45,250 --> 00:22:47,730
+Craig: a nice professional gentle email that you
+
+593
+00:22:47,730 --> 00:22:49,970
+Craig: can respond with next time to someone to say
+
+594
+00:22:49,970 --> 00:22:52,550
+Craig: i can't take that meeting i've got to get
+
+595
+00:22:52,550 --> 00:22:54,910
+Craig: my own stuff done send me the actions and
+
+596
+00:22:54,910 --> 00:22:57,850
+Craig: i'll have a look at them later and then so she you
+
+597
+00:22:57,850 --> 00:22:59,970
+Craig: know took a couple weeks but she fixed
+
+598
+00:22:59,970 --> 00:23:02,970
+Craig: her work day so she
+
+599
+00:23:02,970 --> 00:23:04,790
+Craig: was working at work and not taking so
+
+600
+00:23:04,790 --> 00:23:07,310
+Craig: much harm and then it gave advice for
+
+601
+00:23:07,310 --> 00:23:08,510
+Craig: like meal planning
+
+602
+00:23:08,510 --> 00:23:12,130
+Craig: exercise patterns of an evening and you
+
+603
+00:23:12,130 --> 00:23:14,150
+Craig: know she didn't let it dictate every part
+
+604
+00:23:14,150 --> 00:23:15,150
+Craig: of her life but
+
+605
+00:23:15,150 --> 00:23:17,350
+Craig: it gave different recommendations that
+
+606
+00:23:17,350 --> 00:23:20,050
+Craig: she thought that's clever that's not
+
+607
+00:23:20,050 --> 00:23:21,570
+Craig: something that my partner
+
+608
+00:23:21,570 --> 00:23:23,550
+Craig: has recognized it's not something my
+
+609
+00:23:23,550 --> 00:23:25,830
+Craig: friends have recognized it's something
+
+610
+00:23:25,830 --> 00:23:27,450
+Craig: that only a system
+
+611
+00:23:27,450 --> 00:23:30,090
+Craig: that's cataloguing and analyzing my life
+
+612
+00:23:30,090 --> 00:23:33,492
+Craig: sort of knows about and it gave that
+
+613
+00:23:33,492 --> 00:23:35,700
+Craig: insight i i use it
+
+614
+00:23:35,700 --> 00:23:38,060
+Craig: for insight all the time again with three
+
+615
+00:23:38,120 --> 00:23:41,360
+Craig: years of conversations it knows like it'll
+
+616
+00:23:41,360 --> 00:23:42,280
+Craig: say you know
+
+617
+00:23:42,280 --> 00:23:44,540
+Craig: craig i know you're excited about this
+
+618
+00:23:44,540 --> 00:23:46,700
+Craig: next project that you've taken on and that you've
+
+619
+00:23:46,700 --> 00:23:49,100
+Craig: said yes to but you've said yes to a lot
+
+620
+00:23:49,100 --> 00:23:52,660
+Craig: lately and i'm getting the telltale signs that you're
+
+621
+00:23:52,660 --> 00:23:54,780
+Craig: going to burn out you know and that you're
+
+622
+00:23:55,100 --> 00:23:57,020
+Craig: going to not sleep well you're going to
+
+623
+00:23:57,020 --> 00:23:57,660
+Craig: make yourself
+
+624
+00:23:57,660 --> 00:24:01,080
+Craig: sick here's what you need to do to hone
+
+625
+00:24:01,080 --> 00:24:04,320
+Craig: things down and it recognizes that just
+
+626
+00:24:04,320 --> 00:24:05,200
+Craig: through my patterns
+
+627
+00:24:05,200 --> 00:24:07,229
+Craig: of speech and the the things that i tell
+
+628
+00:24:07,229 --> 00:24:09,850
+Craig: it that i'm doing i think that's again
+
+629
+00:24:09,850 --> 00:24:10,610
+Craig: people's comfort
+
+630
+00:24:10,610 --> 00:24:14,110
+Craig: levels will differ but for me and for
+
+631
+00:24:14,110 --> 00:24:17,330
+Craig: thinking about the implications for safe
+
+632
+00:24:17,330 --> 00:24:18,930
+Craig: ways of harnessing
+
+633
+00:24:18,930 --> 00:24:21,430
+Craig: that in a neurodivergent or inclusive
+
+634
+00:24:21,430 --> 00:24:24,010
+Craig: education capacity i'm really interested
+
+635
+00:24:24,010 --> 00:24:24,930
+Craig: in that i'm not
+
+636
+00:24:24,930 --> 00:24:27,610
+Craig: interested in saying you know i'll give a
+
+637
+00:24:27,610 --> 00:24:30,310
+Craig: san francisco based company every part of
+
+638
+00:24:30,310 --> 00:24:30,870
+Craig: my this
+
+639
+00:24:30,870 --> 00:24:34,310
+Craig: child's life but i'm thinking what are
+
+640
+00:24:34,310 --> 00:24:37,270
+Craig: safe ways to extract the benefits from
+
+641
+00:24:37,270 --> 00:24:38,290
+Craig: some of these systems
+
+642
+00:24:38,290 --> 00:24:41,005
+Craig: and and to to safeguard the things that
+
+643
+00:24:41,005 --> 00:24:43,870
+Craig: we need to stay safe about you know
+
+644
+00:24:43,870 --> 00:24:44,990
+Josh: yeah
+
+645
+00:24:44,990 --> 00:24:46,030
+Craig: so the the very
+
+646
+00:24:46,030 --> 00:24:48,530
+Craig: last part of that i said we've got you've
+
+647
+00:24:48,790 --> 00:24:51,070
+Craig: got alpha rhythm i for insight pay for
+
+648
+00:24:51,070 --> 00:24:51,970
+Craig: play is that
+
+649
+00:24:51,970 --> 00:24:54,570
+Craig: i just think man like there's so many fun
+
+650
+00:24:54,570 --> 00:24:58,650
+Craig: creative things that ai can do and one of
+
+651
+00:24:58,650 --> 00:25:00,350
+Craig: my worries and i
+
+652
+00:25:00,350 --> 00:25:02,690
+Craig: still worry about it all the time that i
+
+653
+00:25:02,690 --> 00:25:06,210
+Craig: see how much ai has just become an office
+
+654
+00:25:06,210 --> 00:25:07,490
+Craig: tool you know
+
+655
+00:25:07,490 --> 00:25:09,490
+Craig: it's i mean it seems like it's it's done
+
+656
+00:25:09,490 --> 00:25:12,030
+Craig: either two things whenever it goes into
+
+657
+00:25:12,030 --> 00:25:13,310
+Craig: the arts it's
+
+658
+00:25:13,310 --> 00:25:16,058
+Craig: now perpetually considered ai slot it's
+
+659
+00:25:16,058 --> 00:25:19,620
+Craig: it's taking away jobs from artists and
+
+660
+00:25:19,620 --> 00:25:20,900
+Craig: musicians
+
+661
+00:25:20,900 --> 00:25:24,700
+Craig: is the perspective so anytime it touches
+
+662
+00:25:24,700 --> 00:25:28,380
+Craig: art it's it's ruining art and so like
+
+663
+00:25:28,380 --> 00:25:29,740
+Craig: what else can ai do
+
+664
+00:25:29,740 --> 00:25:32,680
+Craig: oh it'll help transcribe meetings and
+
+665
+00:25:32,680 --> 00:25:35,540
+Craig: help write emails like well there's got
+
+666
+00:25:35,540 --> 00:25:36,940
+Craig: to be something more
+
+667
+00:25:36,940 --> 00:25:40,000
+Craig: that ai can can do and i i've been so
+
+668
+00:25:40,000 --> 00:25:42,000
+Craig: interested in seeing people who are
+
+669
+00:25:42,000 --> 00:25:44,400
+Craig: really creative use it in
+
+670
+00:25:44,400 --> 00:25:48,460
+Craig: experimental ways i saw an opera in germany
+
+671
+00:25:48,460 --> 00:25:52,700
+Craig: where the composer and the dance choreographer
+
+672
+00:25:52,700 --> 00:25:57,400
+Craig: she used ai to make these versions of
+
+673
+00:25:57,400 --> 00:25:59,680
+Craig: herself that could sing along in the
+
+674
+00:25:59,680 --> 00:26:02,580
+Craig: choir operated 3d
+
+675
+00:26:02,580 --> 00:26:05,380
+Craig: printers on stage to print props that the
+
+676
+00:26:05,380 --> 00:26:09,100
+Craig: actors were using in real time it was modulating
+
+677
+00:26:09,100 --> 00:26:09,820
+Craig: her face
+
+678
+00:26:09,820 --> 00:26:13,380
+Craig: on this big screen co-writing songs i
+
+679
+00:26:13,380 --> 00:26:16,220
+Craig: thought this is someone who's not afraid
+
+680
+00:26:16,220 --> 00:26:17,520
+Craig: to play with
+
+681
+00:26:17,520 --> 00:26:20,480
+Craig: the technology it's not writing the art
+
+682
+00:26:20,480 --> 00:26:22,933
+Craig: it's not doing it for her she's in a
+
+683
+00:26:22,933 --> 00:26:23,880
+Craig: really interesting
+
+684
+00:26:23,880 --> 00:26:26,500
+Craig: dialogue and i thought what are some ways
+
+685
+00:26:26,500 --> 00:26:28,700
+Craig: that we can do that and i mean one one
+
+686
+00:26:28,700 --> 00:26:29,600
+Craig: version of play
+
+687
+00:26:29,740 --> 00:26:33,960
+Craig: that I'll mention is my son who's seven
+
+688
+00:26:33,960 --> 00:26:36,640
+Craig: now but when he was probably just turned
+
+689
+00:26:36,640 --> 00:26:38,220
+Craig: six we went to
+
+690
+00:26:38,220 --> 00:26:40,780
+Craig: the beach and we're running in and out of
+
+691
+00:26:40,780 --> 00:26:44,160
+Craig: the waves and he he said like I love this
+
+692
+00:26:44,160 --> 00:26:44,920
+Craig: imagine if
+
+693
+00:26:44,920 --> 00:26:47,720
+Craig: there was a game about running in and out
+
+694
+00:26:47,720 --> 00:26:50,860
+Craig: of the waves and I said well maybe we
+
+695
+00:26:50,860 --> 00:26:51,560
+Craig: could do something
+
+696
+00:26:51,560 --> 00:26:54,285
+Craig: like that so we got the phone we filmed
+
+697
+00:26:54,285 --> 00:26:57,950
+Craig: the waves and how they moved and then we
+
+698
+00:26:57,950 --> 00:26:59,170
+Craig: sat down afterwards
+
+699
+00:26:59,170 --> 00:27:02,330
+Craig: with our towels around us in the sun on a
+
+700
+00:27:02,330 --> 00:27:06,670
+Craig: bench and used AI to say,
+
+701
+00:27:06,670 --> 00:27:08,390
+Craig: hey, we'd love to make a game
+
+702
+00:27:08,390 --> 00:27:10,070
+Craig: where you run in and out of the waves.
+
+703
+00:27:10,250 --> 00:27:11,490
+Craig: You can do this, do that.
+
+704
+00:27:11,490 --> 00:27:14,170
+Craig: My son, in this like stream of consciousness,
+
+705
+00:27:14,170 --> 00:27:17,650
+Craig: just kept adding ideas, ideas, ideas.
+
+706
+00:27:17,650 --> 00:27:18,670
+Craig: By the end of the conversation,
+
+707
+00:27:19,070 --> 00:27:20,390
+Craig: like half an hour later,
+
+708
+00:27:20,390 --> 00:27:24,510
+Craig: we had a working prototype of a video game
+
+709
+00:27:24,510 --> 00:27:26,951
+Craig: about a character running in and out of the waves
+
+710
+00:27:26,951 --> 00:27:30,120
+Craig: and getting all these points and things i
+
+711
+00:27:30,120 --> 00:27:33,060
+Craig: thought well what a what a playful thing
+
+712
+00:27:33,060 --> 00:27:34,560
+Craig: for my son to
+
+713
+00:27:34,560 --> 00:27:38,140
+Craig: not to think that oh i don't need to
+
+714
+00:27:38,140 --> 00:27:39,740
+Craig: learn how to make a game or i don't need
+
+715
+00:27:39,740 --> 00:27:40,640
+Craig: to learn how to paint
+
+716
+00:27:40,640 --> 00:27:42,860
+Craig: it's like it's not at that point it wasn't
+
+717
+00:27:42,860 --> 00:27:46,280
+Craig: about that it was having an idea that you
+
+718
+00:27:46,280 --> 00:27:49,940
+Craig: could prototype and create so quickly and see
+
+719
+00:27:49,940 --> 00:27:52,400
+Craig: the fruits of it that to for something to
+
+720
+00:27:52,400 --> 00:27:55,700
+Craig: become from an idea to become something that's
+
+721
+00:27:55,700 --> 00:27:58,500
+Craig: real in such a rapid turnaround he
+
+722
+00:27:58,500 --> 00:27:59,260
+Craig: thought it was amazing
+
+723
+00:27:59,260 --> 00:28:01,173
+Craig: but then it led him to want to take it
+
+724
+00:28:01,173 --> 00:28:04,140
+Craig: in other directions you know and to go home
+
+725
+00:28:04,140 --> 00:28:04,660
+Craig: and do other
+
+726
+00:28:04,660 --> 00:28:06,880
+Craig: sorts of play and to draw pictures about
+
+727
+00:28:06,880 --> 00:28:10,100
+Craig: this wave run experience and i thought
+
+728
+00:28:10,100 --> 00:28:11,440
+Craig: again it's all in the
+
+729
+00:28:11,440 --> 00:28:14,760
+Craig: way you approach it if i said to a school
+
+730
+00:28:14,760 --> 00:28:17,380
+Craig: network like to a whole department of
+
+731
+00:28:17,380 --> 00:28:19,000
+Craig: education network of
+
+732
+00:28:19,000 --> 00:28:22,220
+Craig: schools you should all go to the beach
+
+733
+00:28:22,220 --> 00:28:24,820
+Craig: with your phones and film the waves and
+
+734
+00:28:24,820 --> 00:28:25,500
+Craig: everyone should sit
+
+735
+00:28:25,500 --> 00:28:27,860
+Craig: down and make a game i think no i don't
+
+736
+00:28:27,860 --> 00:28:30,220
+Craig: want kids doing that that's something's
+
+737
+00:28:30,220 --> 00:28:30,880
+Craig: going to get lost in
+
+738
+00:28:30,880 --> 00:28:33,953
+Craig: translation but when it when it's a
+
+739
+00:28:33,953 --> 00:28:37,750
+Craig: spontaneous idiosyncratic experience that
+
+740
+00:28:38,150 --> 00:28:39,290
+Craig: you can harness
+
+741
+00:28:39,290 --> 00:28:42,090
+Craig: and take in really fascinating directions
+
+742
+00:28:42,090 --> 00:28:45,370
+Craig: that sort of play really interests me and
+
+743
+00:28:45,370 --> 00:28:45,890
+Craig: and that's
+
+744
+00:28:45,890 --> 00:28:47,790
+Craig: where i'm constantly interested to see
+
+745
+00:28:47,790 --> 00:28:50,850
+Craig: where this stuff can go so that's that's
+
+746
+00:28:50,850 --> 00:28:51,650
+Craig: a long way josh
+
+747
+00:28:51,650 --> 00:28:54,750
+Craig: of me saying that i think the walk and
+
+748
+00:28:54,750 --> 00:28:58,750
+Craig: talk plus ai in real world multimodal
+
+749
+00:28:58,770 --> 00:28:59,970
+Craig: ambient environments
+
+750
+00:28:59,970 --> 00:29:03,010
+Craig: can be very playful and very creative and
+
+751
+00:29:03,010 --> 00:29:06,710
+Craig: very useful in ways that to me are far
+
+752
+00:29:06,710 --> 00:29:09,870
+Craig: more interesting than just sitting in front of a chatbot
+
+753
+00:29:09,870 --> 00:29:12,410
+Craig: having you know sort of typing into it to
+
+754
+00:29:12,410 --> 00:29:13,730
+Craig: to get jobs done
+
+755
+00:29:13,730 --> 00:29:15,570
+Josh: Yeah, no, I think that is a really
+
+756
+00:29:15,570 --> 00:29:17,430
+Josh: interesting way to look at it and putting
+
+757
+00:29:17,430 --> 00:29:19,790
+Josh: it into those components of rhythm,
+
+758
+00:29:19,790 --> 00:29:21,120
+Josh: insight and play.
+
+759
+00:29:21,120 --> 00:29:23,290
+Josh: I think it kind of nice ways for people
+
+760
+00:29:23,290 --> 00:29:26,010
+Josh: who may be a little more hesitant to use
+
+761
+00:29:26,010 --> 00:29:29,130
+Josh: AI or to interact with AI in those ways
+
+762
+00:29:29,130 --> 00:29:31,210
+Josh: to put them into those three components
+
+763
+00:29:31,210 --> 00:29:34,950
+Josh: can kind of then maybe lend itself to an
+
+764
+00:29:34,950 --> 00:29:37,410
+Josh: area to explore maybe at first and then
+
+765
+00:29:37,410 --> 00:29:39,730
+Josh: see how that works.
+
+766
+00:29:46,560 --> 00:29:48,740
+Josh: I do wonder though as well, you kind of
+
+767
+00:29:48,740 --> 00:29:50,340
+Josh: touched on it a little bit, people out
+
+768
+00:29:50,340 --> 00:29:50,840
+Josh: there who maybe
+
+769
+00:29:50,840 --> 00:29:52,900
+Josh: are less comfortable with the big data
+
+770
+00:29:52,900 --> 00:29:56,740
+Josh: side of things and how they use AI. What
+
+771
+00:29:56,740 --> 00:29:57,380
+Josh: would you say
+
+772
+00:29:57,380 --> 00:29:59,620
+Josh: maybe to those people who feel that the
+
+773
+00:29:59,620 --> 00:30:02,400
+Josh: use of AI is potentially replacing
+
+774
+00:30:02,400 --> 00:30:03,540
+Josh: personal connections
+
+775
+00:30:03,540 --> 00:30:06,440
+Josh: and relationship building with whether
+
+776
+00:30:06,440 --> 00:30:08,580
+Josh: that be our friends, our neighbours, the
+
+777
+00:30:08,580 --> 00:30:09,220
+Josh: broader community
+
+778
+00:30:09,220 --> 00:30:11,807
+Josh: and how that's impacting those people who
+
+779
+00:30:11,807 --> 00:30:15,510
+Josh: are starting to adopt AI a little more?
+
+780
+00:30:15,510 --> 00:30:18,490
+Craig: Yeah, I'm really interested in this space,
+
+781
+00:30:18,490 --> 00:30:22,670
+Craig: and I hope in my answer here to represent
+
+782
+00:30:22,670 --> 00:30:25,110
+Craig: something that's maybe not a mainstream
+
+783
+00:30:25,110 --> 00:30:28,030
+Craig: response, and I'll do it in a careful way
+
+784
+00:30:28,030 --> 00:30:28,770
+Craig: that shows
+
+785
+00:30:28,770 --> 00:30:31,830
+Craig: that I'm not going rogue too much from
+
+786
+00:30:31,830 --> 00:30:37,010
+Craig: safety, but I've got two main thoughts.
+
+787
+00:30:37,010 --> 00:30:39,710
+Craig: One is that I absolutely worry, I think
+
+788
+00:30:39,710 --> 00:30:41,990
+Craig: like a lot of people do, about the role
+
+789
+00:30:41,990 --> 00:30:42,910
+Craig: that technology
+
+790
+00:30:42,910 --> 00:30:45,985
+Craig: in general has played in disrupting the
+
+791
+00:30:45,985 --> 00:30:49,800
+Craig: social fabric and social relationships
+
+792
+00:30:49,800 --> 00:30:51,280
+Craig: like we've probably
+
+793
+00:30:51,280 --> 00:30:54,260
+Craig: been traditionally used to before the
+
+794
+00:30:54,260 --> 00:30:57,000
+Craig: incoming of these new technologies
+
+795
+00:30:57,000 --> 00:30:58,840
+Craig: particularly the the
+
+796
+00:30:58,840 --> 00:31:01,740
+Craig: internet i think was was the the big one
+
+797
+00:31:01,740 --> 00:31:03,760
+Craig: i mean i i was only thinking the other
+
+798
+00:31:03,760 --> 00:31:05,200
+Craig: day as a teacher
+
+799
+00:31:05,200 --> 00:31:08,920
+Craig: i used to use twitter um when sort of
+
+800
+00:31:08,920 --> 00:31:12,200
+Craig: twitter educational conversations were
+
+801
+00:31:12,200 --> 00:31:12,700
+Craig: quite a big
+
+802
+00:31:12,700 --> 00:31:15,660
+Craig: thing you know and particularly in australia
+
+803
+00:31:15,660 --> 00:31:18,080
+Craig: would have nightly twitter conversations
+
+804
+00:31:18,080 --> 00:31:21,464
+Craig: about the latest educational concept and and i
+
+805
+00:31:21,464 --> 00:31:23,930
+Craig: always remember thinking people don't
+
+806
+00:31:23,930 --> 00:31:24,710
+Craig: know how to be
+
+807
+00:31:24,710 --> 00:31:27,050
+Craig: they can't have a polite conversation in
+
+808
+00:31:27,050 --> 00:31:32,270
+Craig: this medium things turn angry and and uh
+
+809
+00:31:32,270 --> 00:31:33,270
+Craig: knee-jerk
+
+810
+00:31:33,270 --> 00:31:36,430
+Craig: aggressive very quickly and i thought it's
+
+811
+00:31:36,430 --> 00:31:38,830
+Craig: not the people's fault like i all these
+
+812
+00:31:38,830 --> 00:31:39,390
+Craig: people would
+
+813
+00:31:39,390 --> 00:31:42,170
+Craig: be lovely i'm sure in a one-on-one
+
+814
+00:31:42,170 --> 00:31:44,430
+Craig: conversation you know if you had dinner
+
+815
+00:31:44,430 --> 00:31:46,250
+Craig: with them they wouldn't
+
+816
+00:31:46,250 --> 00:31:48,430
+Craig: be they wouldn't be responding like they
+
+817
+00:31:48,430 --> 00:31:51,790
+Craig: are now but the technology the technology
+
+818
+00:31:51,790 --> 00:31:52,570
+Craig: is so new
+
+819
+00:31:52,570 --> 00:31:55,620
+Craig: and being able to talk so anonymously or
+
+820
+00:31:55,620 --> 00:31:59,230
+Craig: to you know think about your response and
+
+821
+00:31:59,230 --> 00:32:00,110
+Craig: research and
+
+822
+00:32:00,110 --> 00:32:02,650
+Craig: try and strategically beat the other
+
+823
+00:32:02,650 --> 00:32:05,290
+Craig: person this is such a different way of
+
+824
+00:32:05,290 --> 00:32:06,430
+Craig: interacting with people
+
+825
+00:32:06,430 --> 00:32:09,650
+Craig: that it's no wonder that it's created
+
+826
+00:32:09,650 --> 00:32:12,800
+Craig: a sort of antisocial environment at times.
+
+827
+00:32:12,800 --> 00:32:14,750
+Craig: Sometimes it was great and sometimes it
+
+828
+00:32:14,750 --> 00:32:16,210
+Craig: was very antisocial.
+
+829
+00:32:16,210 --> 00:32:18,210
+Craig: And I thought this is an example of a new
+
+830
+00:32:18,210 --> 00:32:18,770
+Craig: technology
+
+831
+00:32:18,770 --> 00:32:22,430
+Craig: that we've not had 50 years, 100 years
+
+832
+00:32:22,430 --> 00:32:24,930
+Craig: to learn how to be nice, you know,
+
+833
+00:32:25,217 --> 00:32:27,295
+Craig: online in these massive global capacities.
+
+834
+00:32:27,295 --> 00:32:31,080
+Craig: I think we still see that in different
+
+835
+00:32:31,080 --> 00:32:32,420
+Craig: ways.
+
+836
+00:32:32,420 --> 00:32:35,600
+Craig: So I do get worried about young people
+
+837
+00:32:35,600 --> 00:32:38,900
+Craig: becoming isolated and becoming wrapped up
+
+838
+00:32:38,900 --> 00:32:41,620
+Craig: in echo chambers where they don't get to
+
+839
+00:32:41,620 --> 00:32:43,360
+Craig: have the sort of
+
+840
+00:32:43,540 --> 00:32:45,860
+Craig: real world friendships and interactions
+
+841
+00:32:45,860 --> 00:32:49,280
+Craig: where people challenge you and you've got
+
+842
+00:32:49,280 --> 00:32:50,100
+Craig: to learn to
+
+843
+00:32:50,100 --> 00:32:52,720
+Craig: be different versions of yourself and
+
+844
+00:32:52,720 --> 00:32:54,940
+Craig: find out who you are in complex
+
+845
+00:32:54,940 --> 00:32:56,480
+Craig: environments you know that
+
+846
+00:32:56,480 --> 00:32:58,775
+Craig: are outside of the screen in saying that
+
+847
+00:32:58,775 --> 00:33:02,850
+Craig: that also could be seen as quite an ableist
+
+848
+00:33:02,850 --> 00:33:03,870
+Craig: perspective to
+
+849
+00:33:03,870 --> 00:33:06,610
+Craig: take because you think well you know who's
+
+850
+00:33:06,610 --> 00:33:09,710
+Craig: to say what the normative social approach
+
+851
+00:33:09,710 --> 00:33:11,050
+Craig: is for friendship
+
+852
+00:33:11,050 --> 00:33:14,810
+Craig: or for interaction and who's to say that
+
+853
+00:33:14,810 --> 00:33:18,570
+Craig: the nostalgic view of sitting around the
+
+854
+00:33:18,570 --> 00:33:19,370
+Craig: card table
+
+855
+00:33:19,370 --> 00:33:21,550
+Craig: you know playing cards in front of the
+
+856
+00:33:21,550 --> 00:33:25,430
+Craig: fireplace pre-tv or pre you know internet
+
+857
+00:33:25,430 --> 00:33:26,790
+Craig: who's to say that
+
+858
+00:33:26,790 --> 00:33:30,230
+Craig: that was the golden age of socialization
+
+859
+00:33:30,230 --> 00:33:33,628
+Craig: maybe young young people on reddit and
+
+860
+00:33:33,628 --> 00:33:35,320
+Craig: discord and
+
+861
+00:33:35,320 --> 00:33:38,020
+Craig: online gaming and all these things it's
+
+862
+00:33:38,020 --> 00:33:40,820
+Craig: just another version you know of of how
+
+863
+00:33:40,820 --> 00:33:41,460
+Craig: that stuff
+
+864
+00:33:41,720 --> 00:33:45,360
+Craig: plays out and in in autism education we
+
+865
+00:33:45,360 --> 00:33:48,600
+Craig: talk about empathy but there's a concept called
+
+866
+00:33:48,600 --> 00:33:51,140
+Craig: a double empathy and what double empathy
+
+867
+00:33:51,160 --> 00:33:53,400
+Craig: is is the idea that you know you might
+
+868
+00:33:53,400 --> 00:33:54,400
+Craig: have one person
+
+869
+00:33:54,400 --> 00:33:57,500
+Craig: wanting to interact and socialize in a
+
+870
+00:33:57,500 --> 00:33:59,560
+Craig: particular way someone else has a very
+
+871
+00:33:59,560 --> 00:34:00,500
+Craig: different perspective
+
+872
+00:34:00,500 --> 00:34:03,820
+Craig: on socializing and interacting and they'll
+
+873
+00:34:03,840 --> 00:34:06,540
+Craig: both come at things in their own way and
+
+874
+00:34:06,540 --> 00:34:07,110
+Craig: if if they
+
+875
+00:34:07,110 --> 00:34:09,700
+Craig: both think that they're right then they'll
+
+876
+00:34:09,700 --> 00:34:11,600
+Craig: both see the other person as being wrong
+
+877
+00:34:11,600 --> 00:34:12,740
+Craig: you know and
+
+878
+00:34:12,740 --> 00:34:16,360
+Craig: sometimes as school teachers we can tell
+
+879
+00:34:16,360 --> 00:34:18,780
+Craig: ourselves you know i've got a normative
+
+880
+00:34:18,780 --> 00:34:20,500
+Craig: perfect understanding
+
+881
+00:34:20,500 --> 00:34:22,580
+Craig: of what it is to be social and I've got
+
+882
+00:34:22,580 --> 00:34:25,080
+Craig: this autistic student or this other
+
+883
+00:34:25,080 --> 00:34:26,960
+Craig: student and I can
+
+884
+00:34:26,960 --> 00:34:29,580
+Craig: see their social deficits so I'm going to
+
+885
+00:34:29,580 --> 00:34:31,620
+Craig: teach them the right way to socialize you
+
+886
+00:34:31,620 --> 00:34:32,280
+Craig: know I'll
+
+887
+00:34:32,400 --> 00:34:34,120
+Craig: teach them how to make friends and I'll
+
+888
+00:34:34,120 --> 00:34:35,540
+Craig: teach them how to walk up and shake
+
+889
+00:34:35,540 --> 00:34:36,260
+Craig: someone's hand
+
+890
+00:34:36,260 --> 00:34:38,340
+Craig: but what a double empathy perspective
+
+891
+00:34:38,340 --> 00:34:41,623
+Craig: would say is I've got one version of what
+
+892
+00:34:41,623 --> 00:34:42,920
+Craig: it is to be social
+
+893
+00:34:42,920 --> 00:34:46,060
+Craig: that person that child that autistic
+
+894
+00:34:46,060 --> 00:34:47,880
+Craig: student has their version of what it is
+
+895
+00:34:47,880 --> 00:34:48,500
+Craig: to be social
+
+896
+00:34:48,500 --> 00:34:51,640
+Craig: And we need to both try and empathize and
+
+897
+00:34:51,640 --> 00:34:53,780
+Craig: understand each other's standpoints
+
+898
+00:34:53,780 --> 00:34:56,120
+Craig: without one person thinking that they're
+
+899
+00:34:56,120 --> 00:34:59,780
+Craig: right. And so from that perspective, I
+
+900
+00:34:59,780 --> 00:35:02,640
+Craig: think about the use of AI in social
+
+901
+00:35:02,640 --> 00:35:06,580
+Craig: interaction and friendships online. And I
+
+902
+00:35:06,580 --> 00:35:08,060
+Craig: think what would the double empathy
+
+903
+00:35:08,060 --> 00:35:09,840
+Craig: perspective be?
+
+904
+00:35:10,320 --> 00:35:13,520
+Craig: I think it would be to be patient enough
+
+905
+00:35:13,520 --> 00:35:15,720
+Craig: to think, let's just give this some space
+
+906
+00:35:15,720 --> 00:35:19,920
+Craig: and see what sort of interactions happen
+
+907
+00:35:19,920 --> 00:35:21,620
+Craig: and the way that some of these young
+
+908
+00:35:21,620 --> 00:35:25,180
+Craig: people might benefit from this or not,
+
+909
+00:35:25,280 --> 00:35:27,480
+Craig: but we need to keep a bit of a watch on it.
+
+910
+00:35:27,480 --> 00:35:30,000
+Craig: And one thing that really sticks in my
+
+911
+00:35:30,000 --> 00:35:32,400
+Craig: mind about this is there was an online
+
+912
+00:35:32,400 --> 00:35:35,300
+Craig: forum, it's still running, but caught
+
+913
+00:35:35,300 --> 00:35:37,700
+Craig: sort of news attention around six to
+
+914
+00:35:37,700 --> 00:35:38,820
+Craig: eight months ago.
+
+915
+00:35:38,820 --> 00:35:41,920
+Craig: and the forum was it was on reddit and it
+
+916
+00:35:41,920 --> 00:35:45,460
+Craig: was called my boyfriend is ai and it was
+
+917
+00:35:45,900 --> 00:35:46,800
+Craig: a forum of
+
+918
+00:35:46,800 --> 00:35:50,443
+Craig: different people mostly women who who
+
+919
+00:35:50,443 --> 00:35:53,890
+Craig: were creating ai boyfriends with
+
+920
+00:35:53,890 --> 00:35:54,710
+Craig: different tools
+
+921
+00:35:54,710 --> 00:35:57,790
+Craig: and sharing their experiences on online
+
+922
+00:35:57,790 --> 00:36:00,970
+Craig: and when you read the sort of
+
+923
+00:36:01,070 --> 00:36:02,410
+Craig: conversations that they were
+
+924
+00:36:02,410 --> 00:36:04,990
+Craig: sharing these were and i mean they were
+
+925
+00:36:04,990 --> 00:36:07,670
+Craig: so individual that there'd be no version
+
+926
+00:36:07,670 --> 00:36:10,130
+Craig: of me trying to represent things that would
+
+927
+00:36:10,130 --> 00:36:13,990
+Craig: capture everything nicely but one version
+
+928
+00:36:13,990 --> 00:36:14,850
+Craig: certainly was
+
+929
+00:36:14,850 --> 00:36:17,270
+Craig: that some of these people on the forum
+
+930
+00:36:17,270 --> 00:36:20,690
+Craig: had had really negative relationships in
+
+931
+00:36:20,690 --> 00:36:21,190
+Craig: in the past
+
+932
+00:36:22,010 --> 00:36:24,590
+Craig: that had relationships broke down maybe
+
+933
+00:36:24,590 --> 00:36:27,370
+Craig: relationships full of trauma and
+
+934
+00:36:27,370 --> 00:36:28,150
+Craig: different
+
+935
+00:36:28,150 --> 00:36:30,550
+Craig: challenges that they thought, I'm not
+
+936
+00:36:30,550 --> 00:36:32,990
+Craig: ready to go into another relationship
+
+937
+00:36:32,990 --> 00:36:33,970
+Craig: with another human
+
+938
+00:36:33,970 --> 00:36:36,690
+Craig: after what I've just experienced. But I
+
+939
+00:36:36,690 --> 00:36:39,730
+Craig: want some sort of companionship and maybe
+
+940
+00:36:39,730 --> 00:36:41,250
+Craig: a sense of safety
+
+941
+00:36:41,250 --> 00:36:44,390
+Craig: that I can have a conversation with this
+
+942
+00:36:44,390 --> 00:36:47,910
+Craig: boyfriend and they'll be gentle and kind
+
+943
+00:36:47,910 --> 00:36:48,990
+Craig: and talk about
+
+944
+00:36:48,990 --> 00:36:51,110
+Craig: things I'm interested in. And there were
+
+945
+00:36:51,110 --> 00:36:53,790
+Craig: a lot of autistic people on this forum, a
+
+946
+00:36:53,790 --> 00:36:56,545
+Craig: lot of neurodivergent folk on the forum who said,
+
+947
+00:36:56,545 --> 00:37:01,200
+Craig: this feels much safer and supportive in a
+
+948
+00:37:01,200 --> 00:37:01,840
+Craig: way that my
+
+949
+00:37:01,840 --> 00:37:03,520
+Craig: relationships with the past just have
+
+950
+00:37:03,520 --> 00:37:06,100
+Craig: never, never been. And I thought, well,
+
+951
+00:37:06,100 --> 00:37:06,660
+Craig: this is really
+
+952
+00:37:06,660 --> 00:37:09,200
+Craig: interesting. Like this is a space, a safe
+
+953
+00:37:09,200 --> 00:37:11,080
+Craig: space where people were able to explore
+
+954
+00:37:11,080 --> 00:37:12,380
+Craig: this. Now it
+
+955
+00:37:12,380 --> 00:37:15,180
+Craig: caught wind outside of the forum and
+
+956
+00:37:15,180 --> 00:37:17,860
+Craig: suddenly news headlines on different
+
+957
+00:37:17,860 --> 00:37:19,460
+Craig: newspapers around the world
+
+958
+00:37:19,800 --> 00:37:22,900
+Craig: were saying look at these people having
+
+959
+00:37:22,900 --> 00:37:26,740
+Craig: ai boyfriends how strange how weird how
+
+960
+00:37:26,740 --> 00:37:27,660
+Craig: dystopian
+
+961
+00:37:27,660 --> 00:37:29,608
+Craig: like what has the world led to that this
+
+962
+00:37:29,608 --> 00:37:32,310
+Craig: is what's happening to people instead of
+
+963
+00:37:32,310 --> 00:37:33,370
+Craig: a real life partner
+
+964
+00:37:33,370 --> 00:37:36,690
+Craig: they're talking to their computer and the
+
+965
+00:37:36,690 --> 00:37:39,630
+Craig: feedback around that was were people
+
+966
+00:37:39,630 --> 00:37:41,390
+Craig: absolutely like piling
+
+967
+00:37:41,390 --> 00:37:44,110
+Craig: on you know and saying this is terrible
+
+968
+00:37:44,110 --> 00:37:46,390
+Craig: this is the end of society if we can have
+
+969
+00:37:46,910 --> 00:37:47,970
+Craig: ai boyfriends
+
+970
+00:37:47,970 --> 00:37:50,170
+Craig: and girlfriends and friends our children
+
+971
+00:37:50,170 --> 00:37:52,490
+Craig: are never going to grow up to know what
+
+972
+00:37:52,490 --> 00:37:53,070
+Craig: it is to have a
+
+973
+00:37:53,070 --> 00:37:56,250
+Craig: regular friendship or partner and i
+
+974
+00:37:56,250 --> 00:37:58,830
+Craig: thought this is where we need to be
+
+975
+00:37:58,830 --> 00:38:00,550
+Craig: really careful about
+
+976
+00:38:00,650 --> 00:38:04,403
+Craig: absolutely recognizing safety and mental
+
+977
+00:38:04,403 --> 00:38:08,180
+Craig: health and well-being and making sure
+
+978
+00:38:08,180 --> 00:38:08,900
+Craig: that people don't
+
+979
+00:38:08,900 --> 00:38:11,360
+Craig: feel isolated and don't have you know
+
+980
+00:38:11,360 --> 00:38:12,900
+Craig: they need to have people who they can
+
+981
+00:38:12,900 --> 00:38:14,080
+Craig: touch base within real
+
+982
+00:38:14,080 --> 00:38:17,280
+Craig: life but at the same time let's take a
+
+983
+00:38:17,280 --> 00:38:19,260
+Craig: double empathy lens and let's consider
+
+984
+00:38:19,260 --> 00:38:20,440
+Craig: that not everyone
+
+985
+00:38:20,440 --> 00:38:23,160
+Craig: socializes in the same way and are there
+
+986
+00:38:23,160 --> 00:38:26,440
+Craig: people who can have relationships with ai
+
+987
+00:38:26,440 --> 00:38:27,900
+Craig: that actually
+
+988
+00:38:27,900 --> 00:38:30,700
+Craig: get a lot of well-being from it and a lot
+
+989
+00:38:30,700 --> 00:38:32,880
+Craig: of benefit it might not be the
+
+990
+00:38:32,880 --> 00:38:33,840
+Craig: relationship that
+
+991
+00:38:33,840 --> 00:38:37,280
+Craig: they're in for 30 years it might be a
+
+992
+00:38:37,280 --> 00:38:38,505
+Craig: relationship that they're in for six
+
+993
+00:38:38,505 --> 00:38:40,840
+Craig: months and it's enough to
+
+994
+00:38:40,840 --> 00:38:43,620
+Craig: give them a sense of self-confidence and
+
+995
+00:38:43,620 --> 00:38:46,960
+Craig: grace that that might lead them to other
+
+996
+00:38:46,960 --> 00:38:48,100
+Craig: pathways in
+
+997
+00:38:48,100 --> 00:38:51,200
+Craig: the future but i'm i'm cautious about
+
+998
+00:38:51,200 --> 00:38:53,960
+Craig: having a take on it that's that's too
+
+999
+00:38:53,960 --> 00:38:55,060
+Craig: black or white because
+
+1000
+00:38:55,060 --> 00:38:57,820
+Craig: i think we just have to see how things
+
+1001
+00:38:57,820 --> 00:38:59,020
+Craig: grow and evolve
+
+1002
+00:38:59,020 --> 00:39:00,640
+Josh: yeah i think that double
+
+1003
+00:39:00,640 --> 00:39:02,080
+Josh: empathy lens is
+
+1004
+00:39:02,080 --> 00:39:03,900
+Josh: a really interesting and probably
+
+1005
+00:39:03,900 --> 00:39:06,580
+Josh: valuable tool to use in terms of the way
+
+1006
+00:39:06,580 --> 00:39:08,120
+Josh: that we approach a lot
+
+1007
+00:39:08,120 --> 00:39:10,280
+Josh: things obviously but in terms of ai
+
+1008
+00:39:10,280 --> 00:39:12,443
+Josh: specifically i think that is a great way
+
+1009
+00:39:12,443 --> 00:39:14,230
+Josh: to try and frame it and
+
+1010
+00:39:14,490 --> 00:39:17,370
+Josh: understand where other people might be
+
+1011
+00:39:17,370 --> 00:39:19,070
+Josh: coming from in the way that they use it i
+
+1012
+00:39:19,130 --> 00:39:19,850
+Josh: guess in your
+
+1013
+00:39:19,850 --> 00:39:23,350
+Josh: experience with your understanding of ai
+
+1014
+00:39:23,350 --> 00:39:25,450
+Josh: and your use of it to this point how do
+
+1015
+00:39:25,450 --> 00:39:26,850
+Josh: you feel we best
+
+1016
+00:39:26,850 --> 00:39:29,610
+Josh: support children and young adults to
+
+1017
+00:39:29,610 --> 00:39:32,850
+Josh: learn about and use ai in a way that they
+
+1018
+00:39:32,850 --> 00:39:33,950
+Josh: understand it and
+
+1019
+00:39:34,090 --> 00:39:36,450
+Josh: can ensure that they're being safe in the
+
+1020
+00:39:36,450 --> 00:39:37,890
+Josh: way that they're using it or the people
+
+1021
+00:39:37,890 --> 00:39:38,770
+Josh: around them
+
+1022
+00:39:38,770 --> 00:39:39,510
+Josh: are using it
+
+1023
+00:39:39,590 --> 00:39:41,010
+Craig: yeah i i think
+
+1024
+00:39:42,090 --> 00:39:42,930
+Craig: i think it's
+
+1025
+00:39:42,930 --> 00:39:46,223
+Craig: it's incredibly important to to teach the use of ai
+
+1026
+00:39:46,223 --> 00:39:49,860
+Craig: like you would teach a really good
+
+1027
+00:39:49,860 --> 00:39:52,780
+Craig: program on technology for any other piece
+
+1028
+00:39:52,780 --> 00:39:53,880
+Craig: of tech and i
+
+1029
+00:39:53,880 --> 00:39:56,900
+Craig: think people in this space would say we
+
+1030
+00:39:56,900 --> 00:40:00,200
+Craig: rarely do that well we we often like sit
+
+1031
+00:40:00,500 --> 00:40:01,620
+Craig: children in front
+
+1032
+00:40:01,620 --> 00:40:04,680
+Craig: over the computer and say you know open
+
+1033
+00:40:04,680 --> 00:40:07,680
+Craig: this game or open this program without
+
+1034
+00:40:07,680 --> 00:40:08,340
+Craig: ever saying
+
+1035
+00:40:08,340 --> 00:40:10,480
+Craig: well how does the computer work you know
+
+1036
+00:40:10,480 --> 00:40:12,860
+Craig: how does all this happen or what's the
+
+1037
+00:40:12,860 --> 00:40:13,560
+Craig: internet how does
+
+1038
+00:40:13,560 --> 00:40:17,260
+Craig: that work i i really like the work of an
+
+1039
+00:40:17,260 --> 00:40:20,790
+Craig: educator and um author named linda lucas
+
+1040
+00:40:20,790 --> 00:40:23,000
+Craig: and linda lucas
+
+1041
+00:40:23,000 --> 00:40:25,740
+Craig: created a series of books that started
+
+1042
+00:40:25,740 --> 00:40:29,480
+Craig: with one called hello ruby and the idea
+
+1043
+00:40:29,480 --> 00:40:30,360
+Craig: of hello ruby was
+
+1044
+00:40:30,360 --> 00:40:33,600
+Craig: teaching children all about coding and
+
+1045
+00:40:33,600 --> 00:40:36,680
+Craig: how like block-based coding and little
+
+1046
+00:40:36,960 --> 00:40:37,580
+Craig: cause and effect
+
+1047
+00:40:37,580 --> 00:40:38,740
+Craig: relationships work
+
+1048
+00:40:39,440 --> 00:40:40,600
+Craig: but it did it without
+
+1049
+00:40:40,600 --> 00:40:43,820
+Craig: ever mentioning or not mentioning up
+
+1050
+00:40:43,820 --> 00:40:44,420
+Craig: front about
+
+1051
+00:40:44,420 --> 00:40:47,620
+Craig: computers it did it in this very playful
+
+1052
+00:40:47,620 --> 00:40:51,180
+Craig: offline capacity of let's just look at
+
+1053
+00:40:51,180 --> 00:40:52,160
+Craig: the world around us
+
+1054
+00:40:52,160 --> 00:40:54,643
+Craig: and how things relate and how different
+
+1055
+00:40:54,643 --> 00:40:57,490
+Craig: cause and effect happens and it taught
+
+1056
+00:40:57,490 --> 00:40:59,190
+Craig: coding in that way
+
+1057
+00:40:59,550 --> 00:41:01,630
+Craig: It was very imaginative and very playful,
+
+1058
+00:41:01,630 --> 00:41:04,030
+Craig: and I've seen what Linda has done in
+
+1059
+00:41:04,030 --> 00:41:07,010
+Craig: terms of a similar approach to AI in
+
+1060
+00:41:07,010 --> 00:41:10,770
+Craig: really explaining to children in very
+
+1061
+00:41:10,770 --> 00:41:13,550
+Craig: accessible ways, like, what is a large
+
+1062
+00:41:13,550 --> 00:41:15,150
+Craig: language model, you know?
+
+1063
+00:41:15,150 --> 00:41:17,490
+Craig: What is machine learning?
+
+1064
+00:41:17,650 --> 00:41:20,010
+Craig: What actually is happening in these
+
+1065
+00:41:20,010 --> 00:41:22,370
+Craig: systems, and how do they recognize the
+
+1066
+00:41:22,370 --> 00:41:24,590
+Craig: difference between a blackberry muffin
+
+1067
+00:41:24,590 --> 00:41:26,930
+Craig: and a small dog, you know?
+
+1068
+00:41:26,930 --> 00:41:29,110
+Craig: like what are they doing when they're
+
+1069
+00:41:29,110 --> 00:41:31,800
+Craig: looking at these things and doing all
+
+1070
+00:41:31,800 --> 00:41:33,480
+Craig: these really complex
+
+1071
+00:41:33,480 --> 00:41:37,100
+Craig: sort of computational tricks and i think
+
+1072
+00:41:37,100 --> 00:41:40,400
+Craig: that's super important like to not have
+
+1073
+00:41:40,400 --> 00:41:41,840
+Craig: this phone or
+
+1074
+00:41:41,840 --> 00:41:44,660
+Craig: this ipad or this laptop and say there's
+
+1075
+00:41:44,660 --> 00:41:47,260
+Craig: this magical thing here that if you ask
+
+1076
+00:41:47,260 --> 00:41:48,340
+Craig: it to make
+
+1077
+00:41:48,340 --> 00:41:50,820
+Craig: an artwork it'll make an artwork and if
+
+1078
+00:41:50,820 --> 00:41:53,160
+Craig: you ask it to write an essay for you it'll
+
+1079
+00:41:53,160 --> 00:41:53,920
+Craig: write an essay
+
+1080
+00:41:53,920 --> 00:41:56,740
+Craig: I think that's setting up children to
+
+1081
+00:41:56,740 --> 00:42:00,000
+Craig: completely outsource their cognition and
+
+1082
+00:42:00,000 --> 00:42:02,790
+Craig: their imagination to a black box that
+
+1083
+00:42:02,790 --> 00:42:05,900
+Craig: they've no idea how it works.
+
+1084
+00:42:05,940 --> 00:42:09,840
+Craig: I think if you preload those children to
+
+1085
+00:42:09,840 --> 00:42:11,600
+Craig: say, well, here's how the technology
+
+1086
+00:42:11,600 --> 00:42:12,440
+Craig: operates.
+
+1087
+00:42:12,660 --> 00:42:15,460
+Craig: You're a human with an incredibly complex
+
+1088
+00:42:15,460 --> 00:42:17,880
+Craig: and interesting brain as well.
+
+1089
+00:42:17,880 --> 00:42:20,420
+Craig: what if you use those in harmony with
+
+1090
+00:42:20,420 --> 00:42:23,080
+Craig: each other or what are some ways that you
+
+1091
+00:42:23,520 --> 00:42:24,560
+Craig: can do things in
+
+1092
+00:42:24,560 --> 00:42:26,860
+Craig: partnership that can lead to some
+
+1093
+00:42:26,860 --> 00:42:29,500
+Craig: interesting outcomes and and that's the
+
+1094
+00:42:29,500 --> 00:42:30,380
+Craig: stuff that i'm
+
+1095
+00:42:30,380 --> 00:42:33,380
+Craig: really interested in i um sometimes think
+
+1096
+00:42:33,380 --> 00:42:36,985
+Craig: about this analogy i guess of a mountain like if we
+
+1097
+00:42:36,985 --> 00:42:39,390
+Craig: think about a mountain and we think about
+
+1098
+00:42:39,390 --> 00:42:43,450
+Craig: us as adults compared to our children and
+
+1099
+00:42:43,450 --> 00:42:46,990
+Craig: the way that We use technology and they use tech.
+
+1100
+00:42:46,990 --> 00:42:49,050
+Craig: You and I, like we'd use, I mean, I use
+
+1101
+00:42:49,050 --> 00:42:50,710
+Craig: AI all the time in a professional
+
+1102
+00:42:50,710 --> 00:42:51,870
+Craig: capacity, but
+
+1103
+00:42:51,870 --> 00:42:54,530
+Craig: I feel like I've climbed the mountain
+
+1104
+00:42:54,530 --> 00:42:58,830
+Craig: across years of learning and sweat and
+
+1105
+00:42:58,830 --> 00:42:59,850
+Craig: tears and
+
+1106
+00:42:59,850 --> 00:43:00,810
+Craig: hard work.
+
+1107
+00:43:01,430 --> 00:43:04,750
+Craig: And I've made my way up to, maybe not the
+
+1108
+00:43:04,750 --> 00:43:06,770
+Craig: peak, but I've made my way up the mountain
+
+1109
+00:43:06,770 --> 00:43:10,230
+Craig: so I can walk with very long legs from
+
+1110
+00:43:10,230 --> 00:43:12,200
+Craig: one mountain to another, to another.
+
+1111
+00:43:12,200 --> 00:43:16,110
+Craig: And AI can help me take shortcuts and do
+
+1112
+00:43:16,110 --> 00:43:18,610
+Craig: all these things that help me without
+
+1113
+00:43:18,610 --> 00:43:19,570
+Craig: taking away
+
+1114
+00:43:19,570 --> 00:43:22,470
+Craig: the sweat that I needed to actually learn
+
+1115
+00:43:22,470 --> 00:43:24,780
+Craig: how to climb those mountains.
+
+1116
+00:43:24,780 --> 00:43:27,690
+Craig: I think for our children, I don't want
+
+1117
+00:43:27,690 --> 00:43:31,130
+Craig: them to see AI as a chairlift that's going to sort
+
+1118
+00:43:31,130 --> 00:43:32,630
+Craig: of carry them up to the top of the
+
+1119
+00:43:32,630 --> 00:43:34,050
+Craig: mountain without any effort.
+
+1120
+00:43:34,330 --> 00:43:37,650
+Craig: It's like you need to climb and sweat and
+
+1121
+00:43:37,650 --> 00:43:41,690
+Craig: do the hard work with your cognition and problem
+
+1122
+00:43:41,690 --> 00:43:44,150
+Craig: solve and then you'll be able to use
+
+1123
+00:43:44,150 --> 00:43:47,443
+Craig: these technologies in ways that I can't
+
+1124
+00:43:47,443 --> 00:43:48,080
+Craig: even imagine
+
+1125
+00:43:48,080 --> 00:43:50,020
+Craig: what the future is going to bring but you
+
+1126
+00:43:50,340 --> 00:43:52,400
+Craig: you absolutely need to do the hard yards
+
+1127
+00:43:52,400 --> 00:43:53,440
+Craig: before you
+
+1128
+00:43:53,440 --> 00:43:56,000
+Craig: get there and I understand it's not as
+
+1129
+00:43:56,000 --> 00:43:58,040
+Craig: easy as saying well I mean some schools
+
+1130
+00:43:58,040 --> 00:43:58,600
+Craig: are saying well
+
+1131
+00:43:58,600 --> 00:44:01,040
+Craig: you know no AI until you're in year 10
+
+1132
+00:44:01,040 --> 00:44:04,020
+Craig: you know or no AI until you're you're in
+
+1133
+00:44:04,020 --> 00:44:04,860
+Craig: high school and
+
+1134
+00:44:04,860 --> 00:44:07,100
+Craig: you're quite older I mean I never think
+
+1135
+00:44:07,100 --> 00:44:09,300
+Craig: that's a realistic approach because
+
+1136
+00:44:09,300 --> 00:44:11,500
+Craig: children will access
+
+1137
+00:44:11,500 --> 00:44:14,680
+Craig: the technology somehow in some capacity
+
+1138
+00:44:14,680 --> 00:44:18,220
+Craig: and if you're not there to help them
+
+1139
+00:44:18,220 --> 00:44:19,200
+Craig: understand it then
+
+1140
+00:44:19,200 --> 00:44:20,927
+Craig: they will make you know they could go
+
+1141
+00:44:20,927 --> 00:44:22,880
+Craig: down pathways that won't be beneficial
+
+1142
+00:44:22,880 --> 00:44:23,620
+Craig: for them in
+
+1143
+00:44:23,620 --> 00:44:25,660
+Craig: in the long run so i mean like i said
+
+1144
+00:44:25,660 --> 00:44:29,260
+Craig: my son is um seven we've spent the last two
+
+1145
+00:44:29,260 --> 00:44:30,340
+Craig: years talking
+
+1146
+00:44:30,340 --> 00:44:33,440
+Craig: about ai playing around with it learning
+
+1147
+00:44:33,440 --> 00:44:36,200
+Craig: what it can do and we've used it to say
+
+1148
+00:44:36,200 --> 00:44:37,060
+Craig: let's make an
+
+1149
+00:44:37,060 --> 00:44:39,760
+Craig: artwork around this or let's make a movie
+
+1150
+00:44:39,760 --> 00:44:44,200
+Craig: about this but i've never said now let's
+
+1151
+00:44:44,280 --> 00:44:44,800
+Craig: just put your
+
+1152
+00:44:44,800 --> 00:44:46,440
+Craig: colored pencils away because you don't
+
+1153
+00:44:46,440 --> 00:44:49,100
+Craig: need those anymore you know like we we we
+
+1154
+00:44:49,100 --> 00:44:50,660
+Craig: do the art we write
+
+1155
+00:44:50,660 --> 00:44:53,513
+Craig: the songs we write the stories and and i'm
+
+1156
+00:44:53,513 --> 00:44:56,220
+Craig: i try and you know as an adult and his
+
+1157
+00:44:56,220 --> 00:44:58,080
+Craig: dad model what a
+
+1158
+00:44:58,080 --> 00:45:01,100
+Craig: really enjoyable life of the mind can
+
+1159
+00:45:01,100 --> 00:45:02,720
+Craig: look like you know if you
+
+1160
+00:45:02,720 --> 00:45:03,360
+Josh: yeah
+
+1161
+00:45:03,480 --> 00:45:04,300
+Craig: create and
+
+1162
+00:45:04,300 --> 00:45:05,320
+Craig: do things and say
+
+1163
+00:45:05,320 --> 00:45:09,000
+Craig: i'm not writing books with ai i use ai
+
+1164
+00:45:09,000 --> 00:45:11,060
+Craig: every day to walk and talk about those
+
+1165
+00:45:11,060 --> 00:45:13,160
+Craig: books and i use it to
+
+1166
+00:45:13,160 --> 00:45:15,960
+Craig: research and i use it to help me to um
+
+1167
+00:45:15,960 --> 00:45:17,920
+Craig: draft different things at times and
+
+1168
+00:45:17,920 --> 00:45:18,600
+Craig: practice different
+
+1169
+00:45:18,600 --> 00:45:21,420
+Craig: ideas but it's always at the end of the
+
+1170
+00:45:21,420 --> 00:45:24,620
+Craig: day my own cognitive sweat that's being
+
+1171
+00:45:24,620 --> 00:45:25,645
+Craig: you know burned here
+
+1172
+00:45:25,645 --> 00:45:28,080
+Craig: to actually make the thing come to life
+
+1173
+00:45:28,080 --> 00:45:30,960
+Craig: and i want you to do that as a child
+
+1174
+00:45:30,960 --> 00:45:31,580
+Craig: so
+
+1175
+00:45:31,580 --> 00:45:33,740
+Craig: again it's easier said
+
+1176
+00:45:33,740 --> 00:45:36,580
+Craig: than done and when i've sat in meetings
+
+1177
+00:45:36,580 --> 00:45:40,080
+Craig: with education departments and academics
+
+1178
+00:45:40,080 --> 00:45:41,380
+Craig: and people
+
+1179
+00:45:41,380 --> 00:45:43,640
+Craig: who are talking about well how do we
+
+1180
+00:45:43,640 --> 00:45:46,660
+Craig: scale this safely how do we have ai
+
+1181
+00:45:46,660 --> 00:45:48,320
+Craig: across an entire school
+
+1182
+00:45:48,320 --> 00:45:50,760
+Craig: system or across this you know even just
+
+1183
+00:45:50,760 --> 00:45:54,820
+Craig: a school and i always say i what what i
+
+1184
+00:45:54,820 --> 00:45:55,540
+Craig: would rather you
+
+1185
+00:45:55,540 --> 00:45:58,097
+Craig: lean into rather than one way of using
+
+1186
+00:45:58,097 --> 00:46:01,660
+Craig: technology that is safe for everybody to
+
+1187
+00:46:01,660 --> 00:46:02,740
+Craig: use in the same way
+
+1188
+00:46:02,740 --> 00:46:05,500
+Craig: is try to create opportunities for
+
+1189
+00:46:05,500 --> 00:46:08,760
+Craig: children to experiment be a bit rogue go
+
+1190
+00:46:08,760 --> 00:46:09,480
+Craig: a little bit wild
+
+1191
+00:46:09,480 --> 00:46:11,820
+Craig: use different tools don't just lock them
+
+1192
+00:46:11,820 --> 00:46:14,960
+Craig: down to microsoft copilot and that's the only thing
+
+1193
+00:46:14,960 --> 00:46:16,860
+Craig: you're allowed to touch like give them a
+
+1194
+00:46:16,860 --> 00:46:20,840
+Craig: playground do it safely but let them play and let them
+
+1195
+00:46:20,840 --> 00:46:23,420
+Craig: experiment and you as a teacher need to
+
+1196
+00:46:23,420 --> 00:46:25,620
+Craig: be well versed enough in knowing how this
+
+1197
+00:46:25,620 --> 00:46:26,360
+Craig: stuff works
+
+1198
+00:46:26,640 --> 00:46:28,340
+Craig: to be their guide on the side and to
+
+1199
+00:46:28,340 --> 00:46:31,360
+Craig: model and practice and play I'd rather
+
+1200
+00:46:31,360 --> 00:46:32,428
+Craig: see that sort of
+
+1201
+00:46:32,428 --> 00:46:35,250
+Craig: environment rather than someone standing
+
+1202
+00:46:35,250 --> 00:46:37,830
+Craig: at the front saying everyone open your AI
+
+1203
+00:46:37,830 --> 00:46:38,570
+Craig: tool everyone
+
+1204
+00:46:38,570 --> 00:46:42,570
+Craig: do this in a very measured and rote way
+
+1205
+00:46:42,570 --> 00:46:45,950
+Craig: um and I get I get why that feels safe
+
+1206
+00:46:45,950 --> 00:46:47,110
+Craig: but I also think
+
+1207
+00:46:47,110 --> 00:46:50,130
+Craig: safety shouldn't be the first priority I
+
+1208
+00:46:50,130 --> 00:46:51,930
+Craig: think the first priority should be
+
+1209
+00:46:51,930 --> 00:46:53,450
+Craig: creative experimentation
+
+1210
+00:46:53,450 --> 00:46:56,630
+Craig: and to see what new opportunities can
+
+1211
+00:46:56,630 --> 00:46:57,830
+Craig: unfold out of that
+
+1212
+00:46:57,950 --> 00:46:59,130
+Josh: yeah and i think that
+
+1213
+00:46:59,130 --> 00:47:00,390
+Josh: idea of being able
+
+1214
+00:47:00,390 --> 00:47:02,030
+Josh: to take risks is something that children
+
+1215
+00:47:02,630 --> 00:47:05,810
+Josh: especially have always wanted and needed
+
+1216
+00:47:05,810 --> 00:47:06,363
+Josh: to take in certain
+
+1217
+00:47:06,363 --> 00:47:08,760
+Josh: environments and situations right that's
+
+1218
+00:47:08,760 --> 00:47:11,440
+Josh: all part of the learning and so being
+
+1219
+00:47:11,440 --> 00:47:12,240
+Josh: able to apply that
+
+1220
+00:47:12,240 --> 00:47:15,600
+Josh: same premise to learning and using ai i
+
+1221
+00:47:15,600 --> 00:47:17,320
+Josh: guess is is really important as well and
+
+1222
+00:47:17,320 --> 00:47:18,060
+Josh: that idea that you
+
+1223
+00:47:18,060 --> 00:47:19,620
+Josh: mentioned of being the guide on the side
+
+1224
+00:47:19,620 --> 00:47:21,920
+Josh: i think is is really important because
+
+1225
+00:47:21,920 --> 00:47:23,040
+Josh: there's many things
+
+1226
+00:47:23,040 --> 00:47:24,760
+Josh: before AI that have done a similar thing,
+
+1227
+00:47:24,760 --> 00:47:27,700
+Josh: I guess, right? Like YouTube before that
+
+1228
+00:47:27,860 --> 00:47:28,420
+Josh: movies and
+
+1229
+00:47:28,420 --> 00:47:30,760
+Josh: television, whatever it might've been, if
+
+1230
+00:47:31,060 --> 00:47:34,760
+Josh: we just let children have at it and do
+
+1231
+00:47:34,760 --> 00:47:35,360
+Josh: whatever they want
+
+1232
+00:47:35,360 --> 00:47:37,900
+Josh: with it, they could find themselves, uh,
+
+1233
+00:47:37,900 --> 00:47:39,860
+Josh: in all kinds of places on YouTube or
+
+1234
+00:47:39,860 --> 00:47:40,517
+Josh: watching all kinds
+
+1235
+00:47:40,517 --> 00:47:43,100
+Josh: of different movies and things exposed to
+
+1236
+00:47:43,100 --> 00:47:44,780
+Josh: content that maybe wasn't appropriate for
+
+1237
+00:47:44,780 --> 00:47:45,400
+Josh: them to see at
+
+1238
+00:47:45,400 --> 00:47:47,800
+Josh: that point in time. Um, but if there's
+
+1239
+00:47:47,800 --> 00:47:49,720
+Josh: somebody there, who's that guide on the
+
+1240
+00:47:49,720 --> 00:47:51,320
+Josh: side who can unpack
+
+1241
+00:47:51,680 --> 00:47:53,520
+Josh: those things and can just sort of guide
+
+1242
+00:47:53,700 --> 00:47:56,600
+Josh: maybe where they're exploring and what
+
+1243
+00:47:56,600 --> 00:47:57,420
+Josh: risks they're
+
+1244
+00:47:57,420 --> 00:47:58,940
+Josh: taking i think that's a really important
+
+1245
+00:47:58,940 --> 00:48:02,280
+Josh: way to explore technology like this as well
+
+1246
+00:48:09,400 --> 00:48:11,950
+Josh: something that i'm really interested in finding out
+
+1247
+00:48:12,060 --> 00:48:15,420
+Josh: more about as well is your then support
+
+1248
+00:48:15,420 --> 00:48:16,980
+Josh: of ai tools
+
+1249
+00:48:16,980 --> 00:48:19,160
+Josh: through something that you've developed
+
+1250
+00:48:19,160 --> 00:48:22,940
+Josh: which is a website and an ai tool for
+
+1251
+00:48:22,940 --> 00:48:24,220
+Josh: both teachers and
+
+1252
+00:48:24,220 --> 00:48:27,200
+Josh: students, which is, for those that haven't
+
+1253
+00:48:27,200 --> 00:48:29,400
+Josh: heard of it before, Universal Sandpit.
+
+1254
+00:48:29,400 --> 00:48:30,220
+Josh: Are you able to
+
+1255
+00:48:30,220 --> 00:48:32,940
+Josh: expand on that and tell us about where
+
+1256
+00:48:32,940 --> 00:48:35,420
+Josh: Universal Sandpit came from and then what
+
+1257
+00:48:35,420 --> 00:48:36,080
+Josh: it is that you
+
+1258
+00:48:36,080 --> 00:48:38,700
+Josh: can explore, use and understand from
+
+1259
+00:48:38,700 --> 00:48:40,080
+Josh: Universal Sandpit?
+
+1260
+00:48:40,080 --> 00:48:42,080
+Craig: Yeah, absolutely, Josh.
+
+1261
+00:48:42,080 --> 00:48:43,260
+Craig: So I think the
+
+1262
+00:48:43,260 --> 00:48:45,727
+Craig: Universal Sandpit came out of me thinking
+
+1263
+00:48:45,727 --> 00:48:48,850
+Craig: there are certain things I'm doing all
+
+1264
+00:48:48,850 --> 00:48:49,970
+Craig: the time with AI
+
+1265
+00:48:49,970 --> 00:48:52,470
+Craig: that could be really useful in an
+
+1266
+00:48:52,470 --> 00:48:55,550
+Craig: inclusive education setting but what's a
+
+1267
+00:48:55,550 --> 00:48:56,190
+Craig: way to maybe
+
+1268
+00:48:56,190 --> 00:48:58,670
+Craig: just pull out a few of those things and
+
+1269
+00:48:58,830 --> 00:49:01,290
+Craig: put them in a really simple and safe
+
+1270
+00:49:01,290 --> 00:49:01,850
+Craig: environment
+
+1271
+00:49:01,850 --> 00:49:04,790
+Craig: so people aren't feeling like they've got
+
+1272
+00:49:04,790 --> 00:49:09,230
+Craig: to download say chat jpt and ask it to do
+
+1273
+00:49:09,230 --> 00:49:11,350
+Craig: all these things itself like what if it was
+
+1274
+00:49:11,350 --> 00:49:14,270
+Craig: just as easy as typing in what you want
+
+1275
+00:49:14,270 --> 00:49:15,110
+Craig: and pushing a
+
+1276
+00:49:15,110 --> 00:49:17,170
+Craig: button in a really little safe
+
+1277
+00:49:17,170 --> 00:49:19,839
+Craig: environment so some of the in some some
+
+1278
+00:49:19,839 --> 00:49:21,500
+Craig: of the initial things
+
+1279
+00:49:21,500 --> 00:49:24,940
+Craig: in an inclusive capacity that were coming
+
+1280
+00:49:24,940 --> 00:49:27,500
+Craig: up for me in my work and for the
+
+1281
+00:49:27,500 --> 00:49:28,280
+Craig: colleagues that i was
+
+1282
+00:49:28,280 --> 00:49:30,840
+Craig: working with were things like using the
+
+1283
+00:49:30,840 --> 00:49:33,260
+Craig: strengths and interests of students
+
+1284
+00:49:33,260 --> 00:49:35,000
+Craig: authentically in in the
+
+1285
+00:49:35,000 --> 00:49:37,740
+Craig: classroom which to me has always been a
+
+1286
+00:49:37,740 --> 00:49:41,060
+Craig: real source of joy but also a real way of
+
+1287
+00:49:41,180 --> 00:49:41,820
+Craig: helping
+
+1288
+00:49:41,820 --> 00:49:44,040
+Craig: students achieve their goals if you could
+
+1289
+00:49:44,040 --> 00:49:46,260
+Craig: take something that they love with their
+
+1290
+00:49:46,260 --> 00:49:47,420
+Craig: consent and
+
+1291
+00:49:47,420 --> 00:49:50,320
+Craig: make it part of the the learning journey
+
+1292
+00:49:50,320 --> 00:49:52,040
+Craig: is like it you can get some really
+
+1293
+00:49:52,040 --> 00:49:53,060
+Craig: interesting results
+
+1294
+00:49:53,890 --> 00:49:56,750
+Craig: the challenge is that sometimes students
+
+1295
+00:49:56,750 --> 00:49:58,870
+Craig: love things that teachers and support
+
+1296
+00:49:58,870 --> 00:49:59,570
+Craig: staff have no
+
+1297
+00:49:59,570 --> 00:50:02,270
+Craig: idea about you know they'll have this
+
+1298
+00:50:02,270 --> 00:50:05,650
+Craig: niche internet fascination with a
+
+1299
+00:50:05,650 --> 00:50:07,250
+Craig: particular game or
+
+1300
+00:50:07,250 --> 00:50:09,810
+Craig: something and the teacher who's already
+
+1301
+00:50:09,810 --> 00:50:12,650
+Craig: time poor or the support staff who only
+
+1302
+00:50:12,650 --> 00:50:13,370
+Craig: have a couple of
+
+1303
+00:50:13,370 --> 00:50:15,670
+Craig: minutes are thinking I'd care how I wrap
+
+1304
+00:50:15,670 --> 00:50:18,290
+Craig: my head around this thing and authentically
+
+1305
+00:50:18,290 --> 00:50:19,050
+Craig: connect it to
+
+1306
+00:50:19,050 --> 00:50:21,190
+Craig: the work being done in class and I
+
+1307
+00:50:21,190 --> 00:50:22,850
+Craig: thought again these are teachers and
+
+1308
+00:50:22,850 --> 00:50:24,550
+Craig: support staff who aren't
+
+1309
+00:50:24,550 --> 00:50:26,970
+Craig: going to necessarily whip their phone out
+
+1310
+00:50:27,250 --> 00:50:30,310
+Craig: and get chat GPT and think what do I ask
+
+1311
+00:50:30,310 --> 00:50:30,830
+Craig: like how do I
+
+1312
+00:50:30,830 --> 00:50:33,770
+Craig: make this happen so I thought I'll make a
+
+1313
+00:50:33,770 --> 00:50:36,330
+Craig: tiny little web application all about
+
+1314
+00:50:36,330 --> 00:50:36,890
+Craig: strengths and
+
+1315
+00:50:36,890 --> 00:50:40,350
+Craig: interests, and it'll say, type in the
+
+1316
+00:50:40,350 --> 00:50:43,170
+Craig: interests that your student has, type in
+
+1317
+00:50:43,170 --> 00:50:44,590
+Craig: the topic that's
+
+1318
+00:50:44,590 --> 00:50:47,190
+Craig: being taught in class, push the button,
+
+1319
+00:50:47,190 --> 00:50:49,850
+Craig: and I'll give you 10 ways, or the AI will
+
+1320
+00:50:49,850 --> 00:50:50,750
+Craig: give you 10 ways
+
+1321
+00:50:50,750 --> 00:50:52,970
+Craig: to connect that interest to what's being
+
+1322
+00:50:52,970 --> 00:50:56,070
+Craig: taught in class. And it started very
+
+1323
+00:50:56,070 --> 00:50:57,970
+Craig: simple. I made about
+
+1324
+00:50:57,970 --> 00:51:00,215
+Craig: three or four of those tools and just had
+
+1325
+00:51:00,215 --> 00:51:03,430
+Craig: them up on the website. And I got a lot
+
+1326
+00:51:03,430 --> 00:51:04,290
+Craig: of feedback from
+
+1327
+00:51:04,290 --> 00:51:06,410
+Craig: from teachers and support staff and
+
+1328
+00:51:06,410 --> 00:51:09,110
+Craig: families around the world who said like i
+
+1329
+00:51:09,110 --> 00:51:09,830
+Craig: could actually
+
+1330
+00:51:09,830 --> 00:51:13,390
+Craig: see how i could use ai in a way that i
+
+1331
+00:51:13,710 --> 00:51:16,830
+Craig: felt too scared to use chat jpt you know
+
+1332
+00:51:16,830 --> 00:51:17,370
+Craig: or some of these
+
+1333
+00:51:17,370 --> 00:51:20,650
+Craig: other tools um and so that and then they'd
+
+1334
+00:51:20,650 --> 00:51:22,570
+Craig: say have you ever thought about making a
+
+1335
+00:51:22,570 --> 00:51:23,250
+Craig: tool where
+
+1336
+00:51:23,250 --> 00:51:25,890
+Craig: you know it could help to write social
+
+1337
+00:51:25,890 --> 00:51:28,070
+Craig: stories for children or have you ever
+
+1338
+00:51:28,070 --> 00:51:28,710
+Craig: thought of a tool
+
+1339
+00:51:28,710 --> 00:51:29,723
+Craig: that could do this and
+
+1340
+00:51:30,430 --> 00:51:32,650
+Craig: so over a period
+
+1341
+00:51:32,650 --> 00:51:34,817
+Craig: of two or three years it grew from four
+
+1342
+00:51:34,817 --> 00:51:37,040
+Craig: tools to maybe like
+
+1343
+00:51:37,040 --> 00:51:41,120
+Craig: 20 you know different um tools and the
+
+1344
+00:51:41,120 --> 00:51:44,660
+Craig: idea behind each of them was this should
+
+1345
+00:51:44,660 --> 00:51:46,500
+Craig: never take away the
+
+1346
+00:51:46,500 --> 00:51:49,960
+Craig: creative capacity of the teacher or the
+
+1347
+00:51:49,960 --> 00:51:52,480
+Craig: the parent this should never take away
+
+1348
+00:51:52,480 --> 00:51:54,460
+Craig: the relationship that
+
+1349
+00:51:54,460 --> 00:51:56,420
+Craig: the educator or the family has with their
+
+1350
+00:51:56,420 --> 00:52:00,220
+Craig: child it should help to think through
+
+1351
+00:52:00,220 --> 00:52:01,180
+Craig: something that
+
+1352
+00:52:01,660 --> 00:52:04,820
+Craig: you can only do if you're crowdsourcing
+
+1353
+00:52:04,820 --> 00:52:07,740
+Craig: an internet's worth of ideas you know as
+
+1354
+00:52:07,740 --> 00:52:09,840
+Craig: part of the conversation that you're having with
+
+1355
+00:52:09,840 --> 00:52:12,900
+Craig: that young person and so that's that's
+
+1356
+00:52:12,900 --> 00:52:13,480
+Craig: how i've tried
+
+1357
+00:52:13,480 --> 00:52:17,380
+Craig: to frame it that every tool is a learning
+
+1358
+00:52:17,380 --> 00:52:21,340
+Craig: experience and it's it's also you know
+
+1359
+00:52:21,340 --> 00:52:22,000
+Craig: like if
+
+1360
+00:52:22,140 --> 00:52:24,980
+Craig: i were to write a textbook about all the
+
+1361
+00:52:24,980 --> 00:52:27,020
+Craig: things in inclusive education that are
+
+1362
+00:52:27,020 --> 00:52:28,200
+Craig: important to me
+
+1363
+00:52:28,200 --> 00:52:30,680
+Craig: each of these little ai tools would be
+
+1364
+00:52:30,680 --> 00:52:33,920
+Craig: one of those things so you know using the
+
+1365
+00:52:33,920 --> 00:52:36,900
+Craig: strengths and interests of students or you know
+
+1366
+00:52:36,900 --> 00:52:39,800
+Craig: learning how to analyze a lesson through
+
+1367
+00:52:39,800 --> 00:52:40,580
+Craig: an executive
+
+1368
+00:52:40,580 --> 00:52:42,378
+Craig: functioning lens and then getting a
+
+1369
+00:52:42,378 --> 00:52:45,370
+Craig: breakdown of the different scaffolds that
+
+1370
+00:52:45,370 --> 00:52:45,930
+Craig: you should build
+
+1371
+00:52:45,930 --> 00:52:48,390
+Craig: into your teaching to meet the executive
+
+1372
+00:52:48,390 --> 00:52:50,370
+Craig: functioning requirements of that lesson
+
+1373
+00:52:50,370 --> 00:52:50,910
+Craig: like
+
+1374
+00:52:51,250 --> 00:52:53,210
+Craig: those are things that it's not doing it
+
+1375
+00:52:53,210 --> 00:52:55,430
+Craig: for you but it's having a conversation
+
+1376
+00:52:55,430 --> 00:52:56,750
+Craig: with you to help
+
+1377
+00:52:56,750 --> 00:52:58,770
+Craig: you become a i think a better educator
+
+1378
+00:52:58,770 --> 00:53:01,270
+Craig: you know as as part of that that process
+
+1379
+00:53:01,270 --> 00:53:02,790
+Craig: and then i started
+
+1380
+00:53:02,790 --> 00:53:05,070
+Craig: to make some tools that were specifically
+
+1381
+00:53:05,070 --> 00:53:08,530
+Craig: for students and some of those are trying
+
+1382
+00:53:08,530 --> 00:53:11,590
+Craig: to help students to visualize their thinking in
+
+1383
+00:53:11,670 --> 00:53:14,570
+Craig: ways that the screen can sometimes feel a
+
+1384
+00:53:14,570 --> 00:53:15,673
+Craig: bit flat and a bit
+
+1385
+00:53:15,673 --> 00:53:18,890
+Craig: text-based. And they often came from
+
+1386
+00:53:18,890 --> 00:53:21,750
+Craig: students asking for tools like this or
+
+1387
+00:53:21,750 --> 00:53:22,510
+Craig: saying, I wish there
+
+1388
+00:53:22,510 --> 00:53:24,310
+Craig: was something that could do this. So for
+
+1389
+00:53:24,310 --> 00:53:26,970
+Craig: example, one of them is called Floating
+
+1390
+00:53:26,970 --> 00:53:29,430
+Craig: Thoughts. And it's
+
+1391
+00:53:29,430 --> 00:53:32,810
+Craig: a tool that you tell the tool, so the
+
+1392
+00:53:32,810 --> 00:53:34,630
+Craig: student tells the tool what they need to
+
+1393
+00:53:34,630 --> 00:53:35,650
+Craig: do. So they
+
+1394
+00:53:35,650 --> 00:53:38,330
+Craig: might say, I need to create a board game
+
+1395
+00:53:38,330 --> 00:53:40,670
+Craig: that represents a local environmental
+
+1396
+00:53:40,670 --> 00:53:43,090
+Craig: need in my area.
+
+1397
+00:53:43,090 --> 00:53:46,050
+Craig: And the tool, if you were saying that to
+
+1398
+00:53:46,050 --> 00:53:50,185
+Craig: ChatGPT, ChatGPT would say, no problem, here's how
+
+1399
+00:53:50,185 --> 00:53:52,530
+Craig: to break down that task and here's what
+
+1400
+00:53:52,530 --> 00:53:53,450
+Craig: you should do.
+
+1401
+00:53:53,690 --> 00:53:55,950
+Craig: But it would be very text-based, it would
+
+1402
+00:53:55,950 --> 00:53:57,570
+Craig: just be a screen of text.
+
+1403
+00:53:57,570 --> 00:53:59,890
+Craig: And what Floating Thoughts does is it
+
+1404
+00:53:59,910 --> 00:54:03,490
+Craig: breaks the task down, puts them in little
+
+1405
+00:54:03,490 --> 00:54:04,790
+Craig: boxes that
+
+1406
+00:54:04,790 --> 00:54:07,250
+Craig: you can color code, you can shuffle the
+
+1407
+00:54:07,250 --> 00:54:10,190
+Craig: boxes around, work out the priority that you'd like
+
+1408
+00:54:10,190 --> 00:54:14,430
+Craig: to use as quite tactile and visual in a
+
+1409
+00:54:14,430 --> 00:54:17,290
+Craig: way that sort of pure text isn't so to
+
+1410
+00:54:17,290 --> 00:54:18,450
+Craig: some for some
+
+1411
+00:54:18,450 --> 00:54:21,510
+Craig: students it can give them a better sense
+
+1412
+00:54:21,510 --> 00:54:24,795
+Craig: of what to prioritize and and the way to approach a task
+
+1413
+00:54:24,795 --> 00:54:27,620
+Craig: and so i've got a few other little tools
+
+1414
+00:54:27,620 --> 00:54:29,700
+Craig: like that that try to be that try to
+
+1415
+00:54:29,700 --> 00:54:31,260
+Craig: visualize even i mean
+
+1416
+00:54:31,260 --> 00:54:33,500
+Craig: one that i was having a play with the
+
+1417
+00:54:33,500 --> 00:54:36,960
+Craig: other day and it came out of a sub stack
+
+1418
+00:54:36,960 --> 00:54:38,480
+Craig: that linda lucas
+
+1419
+00:54:38,480 --> 00:54:40,820
+Craig: who i mentioned earlier who did the hello
+
+1420
+00:54:41,240 --> 00:54:44,380
+Craig: ruby she was sharing some research that
+
+1421
+00:54:44,620 --> 00:54:45,440
+Craig: someone online
+
+1422
+00:54:45,440 --> 00:54:49,020
+Craig: had been doing into having ai tools look
+
+1423
+00:54:49,020 --> 00:54:51,700
+Craig: at the relationship between words and it
+
+1424
+00:54:51,700 --> 00:54:53,960
+Craig: mapped on a 3d
+
+1425
+00:54:54,340 --> 00:54:56,760
+Craig: space so if you imagine like a almost a
+
+1426
+00:54:56,760 --> 00:54:59,587
+Craig: solar system of words that you can rotate
+
+1427
+00:54:59,587 --> 00:55:01,070
+Craig: and zoom in
+
+1428
+00:55:01,070 --> 00:55:03,750
+Craig: on it made all these colorful connections
+
+1429
+00:55:03,750 --> 00:55:07,450
+Craig: between words that rhyme or synonyms you
+
+1430
+00:55:07,450 --> 00:55:08,810
+Craig: know or antonyms
+
+1431
+00:55:08,810 --> 00:55:10,430
+Craig: So all these different relationships
+
+1432
+00:55:10,430 --> 00:55:13,330
+Craig: between aspects of language you could,
+
+1433
+00:55:13,330 --> 00:55:16,300
+Craig: like, rotate and zoom in on.
+
+1434
+00:55:16,300 --> 00:55:18,410
+Craig: I thought, how cool would that be for
+
+1435
+00:55:18,410 --> 00:55:22,330
+Craig: some students to be able to visually, in
+
+1436
+00:55:22,330 --> 00:55:24,090
+Craig: a three-dimensional space, see the
+
+1437
+00:55:24,090 --> 00:55:26,210
+Craig: relationships between different word
+
+1438
+00:55:26,210 --> 00:55:28,110
+Craig: meanings and rhymes?
+
+1439
+00:55:28,590 --> 00:55:31,930
+Craig: And so I essentially took this research
+
+1440
+00:55:31,930 --> 00:55:34,507
+Craig: project and pared it down into a very
+
+1441
+00:55:34,507 --> 00:55:35,900
+Craig: child-friendly
+
+1442
+00:55:35,900 --> 00:55:39,140
+Craig: form and made this little tool called
+
+1443
+00:55:39,140 --> 00:55:42,200
+Craig: Word Space where you can pop different
+
+1444
+00:55:42,200 --> 00:55:42,920
+Craig: words in
+
+1445
+00:55:42,920 --> 00:55:46,100
+Craig: and it pops them in colourful dots in a 3D
+
+1446
+00:55:46,100 --> 00:55:47,070
+Craig: space.
+
+1447
+00:55:47,070 --> 00:55:48,960
+Craig: And again, it won't be useful for every
+
+1448
+00:55:48,960 --> 00:55:51,700
+Craig: student, but for some students who have a
+
+1449
+00:55:51,700 --> 00:55:52,240
+Craig: particularly
+
+1450
+00:55:52,240 --> 00:55:54,980
+Craig: visual way of thinking, a colourful way
+
+1451
+00:55:54,980 --> 00:55:57,760
+Craig: of thinking, you think this is just a different
+
+1452
+00:55:57,760 --> 00:56:00,100
+Craig: way of accessing learning and accessing
+
+1453
+00:56:00,100 --> 00:56:03,640
+Craig: information and how wonderful that someone
+
+1454
+00:56:03,860 --> 00:56:07,640
+Craig: like me who's i'm not a software coder in
+
+1455
+00:56:07,640 --> 00:56:09,245
+Craig: in the standard sense i'm very much a
+
+1456
+00:56:09,245 --> 00:56:10,560
+Craig: product of the vibe
+
+1457
+00:56:10,560 --> 00:56:14,700
+Craig: coding ai space but i can have an idea
+
+1458
+00:56:14,700 --> 00:56:19,480
+Craig: bring it to life and it's um able to be
+
+1459
+00:56:19,480 --> 00:56:20,500
+Craig: directly shared
+
+1460
+00:56:20,500 --> 00:56:22,380
+Craig: with students who can play with it give
+
+1461
+00:56:22,540 --> 00:56:25,240
+Craig: feedback and use it so that's that's the
+
+1462
+00:56:25,240 --> 00:56:25,880
+Craig: sort of stuff that
+
+1463
+00:56:25,880 --> 00:56:28,780
+Craig: i'm doing on on the universal sandpit it's
+
+1464
+00:56:28,780 --> 00:56:31,220
+Craig: all free like my premise from the very
+
+1465
+00:56:31,220 --> 00:56:32,260
+Craig: start was i
+
+1466
+00:56:32,260 --> 00:56:34,340
+Craig: need to make sure there's a low cost for
+
+1467
+00:56:34,340 --> 00:56:36,680
+Craig: me to run them and i never want to have
+
+1468
+00:56:36,680 --> 00:56:38,160
+Craig: any sign up or
+
+1469
+00:56:38,160 --> 00:56:41,260
+Craig: subscription or give your information to
+
+1470
+00:56:41,260 --> 00:56:42,625
+Craig: me i was like i've got to have this be
+
+1471
+00:56:42,625 --> 00:56:44,560
+Craig: something that anyone
+
+1472
+00:56:44,560 --> 00:56:46,960
+Craig: can just load it up on their phone and
+
+1473
+00:56:46,960 --> 00:56:49,720
+Craig: use and put away and they may never come
+
+1474
+00:56:49,720 --> 00:56:50,600
+Craig: back but they were
+
+1475
+00:56:50,600 --> 00:56:52,220
+Craig: able to use it once and got something
+
+1476
+00:56:52,220 --> 00:56:54,500
+Craig: from it you know the the only caveat to
+
+1477
+00:56:54,500 --> 00:56:55,660
+Craig: that is i have put a
+
+1478
+00:56:55,660 --> 00:56:58,160
+Craig: you up on the the apple app store and
+
+1479
+00:56:58,160 --> 00:57:00,820
+Craig: they do cost a couple of dollars um for a
+
+1480
+00:57:00,820 --> 00:57:02,160
+Craig: one-off purchase but
+
+1481
+00:57:02,560 --> 00:57:05,040
+Craig: that that was just so i didn't go broke
+
+1482
+00:57:05,040 --> 00:57:07,700
+Craig: with subscription fees and things but the
+
+1483
+00:57:07,700 --> 00:57:08,280
+Craig: website
+
+1484
+00:57:08,280 --> 00:57:11,060
+Craig: itself will remain free forever so yeah
+
+1485
+00:57:11,060 --> 00:57:12,600
+Josh: yeah well and that was something that i
+
+1486
+00:57:12,600 --> 00:57:13,300
+Josh: was going to ask you
+
+1487
+00:57:13,300 --> 00:57:15,155
+Josh: about because i've used some of these
+
+1488
+00:57:15,155 --> 00:57:18,270
+Josh: tools as an educator i'm excited to
+
+1489
+00:57:18,270 --> 00:57:20,190
+Josh: explore some of these
+
+1490
+00:57:20,190 --> 00:57:22,110
+Josh: tools now as well with students and even
+
+1491
+00:57:22,110 --> 00:57:24,170
+Josh: with my own children but some of them you
+
+1492
+00:57:24,170 --> 00:57:26,570
+Josh: mentioned the strengths and interests there's the task
+
+1493
+00:57:26,570 --> 00:57:29,450
+Josh: analysis uh the udl lesson planner
+
+1494
+00:57:29,450 --> 00:57:30,650
+Josh: differentiation levels
+
+1495
+00:57:30,650 --> 00:57:33,350
+Josh: for students emotional regulation concept
+
+1496
+00:57:33,350 --> 00:57:36,910
+Josh: planner floating thoughts so many tools
+
+1497
+00:57:36,910 --> 00:57:38,270
+Josh: on there it's
+
+1498
+00:57:38,270 --> 00:57:40,030
+Josh: expanded obviously so much from those
+
+1499
+00:57:40,030 --> 00:57:43,150
+Josh: original core ideas and yeah a completely
+
+1500
+00:57:43,150 --> 00:57:44,790
+Josh: free resource
+
+1501
+00:57:44,790 --> 00:57:47,170
+Josh: you've just mentioned kind of why that
+
+1502
+00:57:47,170 --> 00:57:49,050
+Josh: was the case i just think it's such an
+
+1503
+00:57:49,050 --> 00:57:51,330
+Josh: amazing concept and
+
+1504
+00:57:51,330 --> 00:57:54,590
+Josh: something fantastic that i'm sure many
+
+1505
+00:57:54,590 --> 00:57:56,250
+Josh: educators and many students are grateful
+
+1506
+00:57:56,250 --> 00:57:57,310
+Josh: to you for having
+
+1507
+00:57:57,310 --> 00:58:00,790
+Josh: created and ensured is a free resource
+
+1508
+00:58:00,790 --> 00:58:03,910
+Josh: ongoing where where do you see this
+
+1509
+00:58:03,910 --> 00:58:05,630
+Josh: potentially continuing
+
+1510
+00:58:05,630 --> 00:58:07,590
+Josh: to move and make progress or is this
+
+1511
+00:58:07,590 --> 00:58:10,310
+Josh: something that is just sort of bubbling
+
+1512
+00:58:10,310 --> 00:58:11,290
+Josh: away and when you
+
+1513
+00:58:11,290 --> 00:58:13,630
+Josh: see the rhyme or the reason or the need
+
+1514
+00:58:13,630 --> 00:58:16,870
+Josh: there it continues to be added to is is
+
+1515
+00:58:16,870 --> 00:58:18,090
+Josh: there a an
+
+1516
+00:58:18,250 --> 00:58:20,570
+Josh: overarching plan now that you've been
+
+1517
+00:58:20,570 --> 00:58:22,630
+Josh: interacting with Universal Sandbit for a
+
+1518
+00:58:22,630 --> 00:58:23,275
+Josh: while or is it just
+
+1519
+00:58:23,275 --> 00:58:26,870
+Josh: continue to be its own being kind of
+
+1520
+00:58:26,870 --> 00:58:27,370
+Craig: I'd
+
+1521
+00:58:27,590 --> 00:58:31,470
+Craig: I'd like it to be a little lighthouse of
+
+1522
+00:58:31,470 --> 00:58:32,750
+Craig: invention that
+
+1523
+00:58:32,750 --> 00:58:35,370
+Craig: others when they come across it can think
+
+1524
+00:58:35,370 --> 00:58:38,130
+Craig: oh that's something different that AI can
+
+1525
+00:58:38,130 --> 00:58:38,770
+Craig: do you
+
+1526
+00:58:38,770 --> 00:58:40,590
+Craig: know or that's something a little bit
+
+1527
+00:58:40,930 --> 00:58:43,590
+Craig: outside the box I don't have a grand plan
+
+1528
+00:58:43,590 --> 00:58:45,270
+Craig: I really enjoy
+
+1529
+00:58:45,270 --> 00:58:48,850
+Craig: when i get emails from people who tell me
+
+1530
+00:58:48,850 --> 00:58:52,490
+Craig: how they've used things or they're like i wish it
+
+1531
+00:58:52,490 --> 00:58:55,310
+Craig: could do this or or they say i've made
+
+1532
+00:58:55,310 --> 00:58:57,393
+Craig: something that does this in a totally
+
+1533
+00:58:57,393 --> 00:58:59,090
+Craig: different way and i
+
+1534
+00:58:59,090 --> 00:59:01,450
+Craig: think well that's amazing like i i love
+
+1535
+00:59:01,450 --> 00:59:05,130
+Craig: the old internet of the early years when
+
+1536
+00:59:05,130 --> 00:59:06,690
+Craig: it felt very
+
+1537
+00:59:06,690 --> 00:59:09,450
+Craig: rogue you could come across a website
+
+1538
+00:59:09,450 --> 00:59:11,630
+Craig: that had such interesting things on it
+
+1539
+00:59:11,630 --> 00:59:12,170
+Craig: and they were all
+
+1540
+00:59:12,170 --> 00:59:14,650
+Craig: free and they were all a bit some of them
+
+1541
+00:59:14,650 --> 00:59:18,130
+Craig: worked some didn't work and that to me is
+
+1542
+00:59:18,130 --> 00:59:19,330
+Craig: the pleasure of
+
+1543
+00:59:19,330 --> 00:59:22,050
+Craig: the internet instead of you know here's a
+
+1544
+00:59:22,050 --> 00:59:24,850
+Craig: very sanitized subscription-based package
+
+1545
+00:59:24,850 --> 00:59:25,710
+Craig: where you can
+
+1546
+00:59:25,710 --> 00:59:28,790
+Craig: you know for 12 a month get this thing i'm
+
+1547
+00:59:28,790 --> 00:59:31,900
+Craig: like i i want the rogue stuff and i want
+
+1548
+00:59:31,900 --> 00:59:32,810
+Craig: the universal
+
+1549
+00:59:32,810 --> 00:59:36,210
+Craig: sandpit to stay a little bit messy a
+
+1550
+00:59:36,210 --> 00:59:38,030
+Craig: little bit like who knows where it's
+
+1551
+00:59:38,030 --> 00:59:39,830
+Craig: going but i always wanted
+
+1552
+00:59:39,830 --> 00:59:44,130
+Craig: to show examples of as i as ai gets
+
+1553
+00:59:44,130 --> 00:59:46,570
+Craig: better and better and as it becomes
+
+1554
+00:59:46,570 --> 00:59:47,630
+Craig: something that completely
+
+1555
+00:59:48,030 --> 00:59:51,090
+Craig: keeps changing what we expect it to do i
+
+1556
+00:59:51,090 --> 00:59:53,370
+Craig: want to be there to say what if we
+
+1557
+00:59:53,370 --> 00:59:54,710
+Craig: harness it in this way
+
+1558
+00:59:54,910 --> 00:59:57,290
+Craig: you know and what if we took that new
+
+1559
+00:59:57,290 --> 00:59:59,830
+Craig: thing that it can do and we were able to
+
+1560
+00:59:59,830 --> 01:00:01,010
+Craig: adapt it in a really
+
+1561
+01:00:01,250 --> 01:00:04,198
+Craig: useful playful way and i don't want to
+
+1562
+01:00:04,198 --> 01:00:07,620
+Craig: like my my caution with myself is that
+
+1563
+01:00:07,860 --> 01:00:08,660
+Craig: because i read a lot
+
+1564
+01:00:08,660 --> 01:00:11,600
+Craig: of the dystopian side of ai you know and
+
+1565
+01:00:11,600 --> 01:00:13,620
+Craig: different and i think i don't want to be
+
+1566
+01:00:13,620 --> 01:00:15,660
+Craig: an apologist for
+
+1567
+01:00:15,660 --> 01:00:18,620
+Craig: some of the big tech companies who do
+
+1568
+01:00:18,620 --> 01:00:21,640
+Craig: really potentially quite quite dangerous
+
+1569
+01:00:21,640 --> 01:00:22,960
+Craig: things but
+
+1570
+01:00:22,960 --> 01:00:24,780
+Craig: then i'm there on the sidelines saying
+
+1571
+01:00:24,780 --> 01:00:27,380
+Craig: don't worry i've found a way that it can
+
+1572
+01:00:27,580 --> 01:00:28,340
+Craig: support children
+
+1573
+01:00:28,340 --> 01:00:30,660
+Craig: with accessibility needs you know so it's
+
+1574
+01:00:30,660 --> 01:00:34,720
+Craig: all okay i i don't want to be an apologist but what
+
+1575
+01:00:34,720 --> 01:00:36,818
+Craig: I do want to do is think I'm a very small
+
+1576
+01:00:36,818 --> 01:00:40,510
+Craig: player in a space where if we can do some
+
+1577
+01:00:40,510 --> 01:00:43,150
+Craig: interesting things with the technology in its
+
+1578
+01:00:43,150 --> 01:00:45,530
+Craig: emerging state as it still continues to
+
+1579
+01:00:45,530 --> 01:00:46,810
+Craig: grow, I'd like to
+
+1580
+01:00:46,810 --> 01:00:49,810
+Craig: represent that instead of not being a
+
+1581
+01:00:49,810 --> 01:00:51,850
+Craig: part of the conversation, you know, and
+
+1582
+01:00:51,850 --> 01:00:52,850
+Craig: instead of just
+
+1583
+01:00:53,250 --> 01:00:56,130
+Craig: being in another space where we're
+
+1584
+01:00:56,130 --> 01:00:58,070
+Craig: implementing very sort of generalized
+
+1585
+01:00:58,070 --> 01:01:00,040
+Craig: ways of using it. So
+
+1586
+01:01:00,040 --> 01:01:03,490
+Craig: if it can stay lively and experimental
+
+1587
+01:01:03,490 --> 01:01:07,030
+Craig: and do interesting things in the future i'll be very happy
+
+1588
+01:01:07,030 --> 01:01:10,050
+Josh: for sure no it's it's a fantastic
+
+1589
+01:01:10,050 --> 01:01:11,757
+Josh: resource so i hope that it just keeps
+
+1590
+01:01:11,757 --> 01:01:13,260
+Josh: being added to in
+
+1591
+01:01:13,260 --> 01:01:15,440
+Josh: ways that are benefiting people like it
+
+1592
+01:01:15,440 --> 01:01:17,460
+Josh: is currently because yeah it's such a
+
+1593
+01:01:17,780 --> 01:01:18,300
+Josh: such a great
+
+1594
+01:01:18,300 --> 01:01:21,420
+Josh: tool and resource and just the idea of
+
+1595
+01:01:21,480 --> 01:01:23,200
+Josh: how it's come about and what it's there
+
+1596
+01:01:23,200 --> 01:01:23,740
+Josh: for i think is
+
+1597
+01:01:23,740 --> 01:01:24,440
+Josh: really special
+
+1598
+01:01:31,700 --> 01:01:32,820
+Josh: just one last thing i
+
+1599
+01:01:32,820 --> 01:01:35,440
+Josh: guess if there's a parent or an educator
+
+1600
+01:01:35,440 --> 01:01:36,260
+Josh: out there who
+
+1601
+01:01:36,500 --> 01:01:40,420
+Josh: is resistant to using ai at the moment
+
+1602
+01:01:40,420 --> 01:01:43,400
+Josh: and unsure of the benefits or how they
+
+1603
+01:01:43,400 --> 01:01:44,312
+Josh: can harness it in a way
+
+1604
+01:01:44,312 --> 01:01:48,070
+Josh: that has to do with those ideas that you
+
+1605
+01:01:48,070 --> 01:01:50,730
+Josh: mentioned before of rhythm insight and
+
+1606
+01:01:50,730 --> 01:01:52,650
+Josh: play what's one piece
+
+1607
+01:01:52,650 --> 01:01:55,010
+Josh: of advice that you would give to somebody
+
+1608
+01:01:55,010 --> 01:01:58,530
+Josh: in that stage of resistance to maybe
+
+1609
+01:01:58,530 --> 01:01:59,950
+Josh: encourage them to
+
+1610
+01:01:59,950 --> 01:02:01,690
+Josh: find out what some of these benefits
+
+1611
+01:02:01,690 --> 01:02:04,810
+Josh: might be for either themselves or their
+
+1612
+01:02:04,810 --> 01:02:06,050
+Josh: child whether they be
+
+1613
+01:02:06,050 --> 01:02:07,190
+Josh: neurodiverse or not
+
+1614
+01:02:07,210 --> 01:02:09,310
+Craig: i'd say think of it
+
+1615
+01:02:09,390 --> 01:02:13,310
+Craig: like a telescope that you're pointing out
+
+1616
+01:02:13,310 --> 01:02:13,990
+Craig: into the solar
+
+1617
+01:02:14,010 --> 01:02:17,457
+Craig: system and you're not just using say a
+
+1618
+01:02:17,457 --> 01:02:20,800
+Craig: google or a search engine like you would
+
+1619
+01:02:20,800 --> 01:02:21,400
+Craig: have in the past
+
+1620
+01:02:21,580 --> 01:02:24,200
+Craig: that you put a question out there and you
+
+1621
+01:02:24,200 --> 01:02:27,000
+Craig: get a few things back that maybe relate
+
+1622
+01:02:27,000 --> 01:02:27,660
+Craig: to you or maybe
+
+1623
+01:02:27,660 --> 01:02:30,320
+Craig: don't relate to you you're using a
+
+1624
+01:02:30,320 --> 01:02:33,040
+Craig: telescope that you ask a question of the
+
+1625
+01:02:33,040 --> 01:02:34,220
+Craig: universe it looks
+
+1626
+01:02:34,220 --> 01:02:36,060
+Craig: through every star system it looks
+
+1627
+01:02:36,060 --> 01:02:39,020
+Craig: through every planet and it customizes a
+
+1628
+01:02:39,020 --> 01:02:40,460
+Craig: result that's so
+
+1629
+01:02:40,460 --> 01:02:43,140
+Craig: individualized to your context that you've
+
+1630
+01:02:43,140 --> 01:02:45,020
+Craig: just gotten back all this information
+
+1631
+01:02:45,020 --> 01:02:45,880
+Craig: that you you can
+
+1632
+01:02:45,880 --> 01:02:48,040
+Craig: choose what to do with you know you can
+
+1633
+01:02:48,040 --> 01:02:51,494
+Craig: ignore it you can keep some of it you can
+
+1634
+01:02:51,494 --> 01:02:53,130
+Craig: think about it
+
+1635
+01:02:53,130 --> 01:02:56,370
+Craig: use it for later but do think of it as
+
+1636
+01:02:56,370 --> 01:02:59,170
+Craig: a tool that you've got control over you
+
+1637
+01:02:59,170 --> 01:03:00,070
+Craig: know you're you're not
+
+1638
+01:03:00,070 --> 01:03:02,210
+Craig: you don't need to put your life into it
+
+1639
+01:03:02,650 --> 01:03:04,890
+Craig: you don't need to use it to replace
+
+1640
+01:03:04,890 --> 01:03:05,730
+Craig: anything that you're
+
+1641
+01:03:05,730 --> 01:03:09,730
+Craig: doing but if you can see it in a capacity
+
+1642
+01:03:09,730 --> 01:03:13,190
+Craig: that you're crowdsourcing a whole world of thoughts
+
+1643
+01:03:13,550 --> 01:03:15,510
+Craig: like the really the the history of
+
+1644
+01:03:15,510 --> 01:03:18,370
+Craig: thought is how i think of it if you've
+
+1645
+01:03:18,370 --> 01:03:20,150
+Craig: got a child who's autistic
+
+1646
+01:03:20,150 --> 01:03:23,590
+Craig: or neurodivergent or with any other
+
+1647
+01:03:23,590 --> 01:03:25,125
+Craig: inclusive education needs.
+
+1648
+01:03:25,125 --> 01:03:28,420
+Craig: If you go to your school and talk to an
+
+1649
+01:03:28,420 --> 01:03:29,480
+Craig: educator there,
+
+1650
+01:03:29,820 --> 01:03:31,480
+Craig: you'll get their experience, which is
+
+1651
+01:03:31,480 --> 01:03:32,380
+Craig: wonderful.
+
+1652
+01:03:32,380 --> 01:03:33,980
+Craig: You'll get your experience, which is
+
+1653
+01:03:33,980 --> 01:03:34,840
+Craig: wonderful.
+
+1654
+01:03:34,840 --> 01:03:37,860
+Craig: But you're playing in a very small pool,
+
+1655
+01:03:38,060 --> 01:03:38,560
+Craig: potentially,
+
+1656
+01:03:38,560 --> 01:03:41,480
+Craig: of experience and information.
+
+1657
+01:03:41,480 --> 01:03:43,560
+Craig: Now, like we said, something like Google,
+
+1658
+01:03:43,880 --> 01:03:45,940
+Craig: you're going to get some Facebook posts
+
+1659
+01:03:45,940 --> 01:03:47,740
+Craig: and blogs and things.
+
+1660
+01:03:47,940 --> 01:03:48,740
+Craig: That's great.
+
+1661
+01:03:48,740 --> 01:03:49,840
+Craig: They're all useful.
+
+1662
+01:03:49,840 --> 01:03:54,260
+Craig: But AI is just crowdsourcing on such a
+
+1663
+01:03:54,260 --> 01:03:55,900
+Craig: different level, and the telescope is
+
+1664
+01:03:56,080 --> 01:03:58,320
+Craig: bringing back such a universe of
+
+1665
+01:03:58,320 --> 01:04:00,016
+Craig: information that is then, like we say,
+
+1666
+01:04:00,016 --> 01:04:02,190
+Craig: being individualized to your context,
+
+1667
+01:04:02,550 --> 01:04:04,550
+Craig: that I feel, if I'm being a little bit
+
+1668
+01:04:04,550 --> 01:04:07,050
+Craig: rogue at times in saying this, it would
+
+1669
+01:04:07,050 --> 01:04:09,870
+Craig: be that you could actually say, is it
+
+1670
+01:04:09,870 --> 01:04:12,410
+Craig: ethical to not use AI?
+
+1671
+01:04:12,410 --> 01:04:14,850
+Craig: If AI can give you so much more
+
+1672
+01:04:14,850 --> 01:04:16,910
+Craig: information about how to support your
+
+1673
+01:04:16,910 --> 01:04:19,850
+Craig: child or the student compared to not
+
+1674
+01:04:19,850 --> 01:04:23,190
+Craig: using it, it would be, I mean, you could
+
+1675
+01:04:23,190 --> 01:04:25,570
+Craig: say, like a doctor in the health
+
+1676
+01:04:25,570 --> 01:04:28,410
+Craig: profession, if they didn't go to
+
+1677
+01:04:28,410 --> 01:04:30,870
+Craig: conferences and they didn't read research
+
+1678
+01:04:30,870 --> 01:04:32,690
+Craig: journals and they just said, well, you
+
+1679
+01:04:32,690 --> 01:04:34,972
+Craig: know, I think I know how to do this
+
+1680
+01:04:34,972 --> 01:04:38,200
+Craig: surgery or to diagnose this patient, you'd
+
+1681
+01:04:38,200 --> 01:04:39,360
+Craig: say, I don't think so.
+
+1682
+01:04:39,360 --> 01:04:41,440
+Craig: you're not using the best and the latest
+
+1683
+01:04:41,440 --> 01:04:44,020
+Craig: information that's out there. But if that doctor
+
+1684
+01:04:44,020 --> 01:04:49,580
+Craig: uses AI in an educated, informed way to
+
+1685
+01:04:49,580 --> 01:04:52,640
+Craig: suddenly crowdsource doctors' experiences
+
+1686
+01:04:52,640 --> 01:04:53,400
+Craig: from all over
+
+1687
+01:04:53,400 --> 01:04:55,780
+Craig: the world and the latest medical
+
+1688
+01:04:55,780 --> 01:04:58,940
+Craig: breakthroughs and cross-cultural and
+
+1689
+01:04:58,940 --> 01:05:00,120
+Craig: cross-topic references
+
+1690
+01:05:00,120 --> 01:05:01,860
+Craig: that are coming through, you think that's
+
+1691
+01:05:01,860 --> 01:05:04,700
+Craig: a really well-informed doctor. And I think the
+
+1692
+01:05:04,800 --> 01:05:07,710
+Craig: same is true for parents and for teachers
+
+1693
+01:05:07,710 --> 01:05:11,060
+Craig: not to put the pressure on everybody to
+
+1694
+01:05:11,060 --> 01:05:12,440
+Craig: think you're a
+
+1695
+01:05:12,440 --> 01:05:14,900
+Craig: bad parent if you don't use ai to consult
+
+1696
+01:05:14,900 --> 01:05:16,660
+Craig: every single part of what you need to do
+
+1697
+01:05:16,660 --> 01:05:17,340
+Craig: as a parent
+
+1698
+01:05:17,340 --> 01:05:20,600
+Craig: or as as a teacher you're you're not a
+
+1699
+01:05:20,600 --> 01:05:23,800
+Craig: good teacher if you don't use ai that's definitely
+
+1700
+01:05:23,800 --> 01:05:28,120
+Craig: not true but i do think to myself what
+
+1701
+01:05:28,120 --> 01:05:31,260
+Craig: are the ethics of using it and not using
+
+1702
+01:05:31,260 --> 01:05:32,200
+Craig: it and what
+
+1703
+01:05:32,200 --> 01:05:34,920
+Craig: might be missed if we're not at least
+
+1704
+01:05:34,920 --> 01:05:37,300
+Craig: understanding what this space contains
+
+1705
+01:05:37,720 --> 01:05:39,420
+Craig: and what could be gained
+
+1706
+01:05:39,420 --> 01:05:42,184
+Craig: by just investigating investigating in in
+
+1707
+01:05:42,184 --> 01:05:45,650
+Craig: a way that feels safe and sensible for
+
+1708
+01:05:45,650 --> 01:05:46,870
+Craig: each of us and
+
+1709
+01:05:46,870 --> 01:05:50,670
+Craig: not to listen to what the the crowd is
+
+1710
+01:05:50,670 --> 01:05:52,910
+Craig: saying about ai or what the headlines are
+
+1711
+01:05:52,910 --> 01:05:53,630
+Craig: saying but
+
+1712
+01:05:54,090 --> 01:05:55,890
+Craig: actually sit down and have a little play
+
+1713
+01:05:55,890 --> 01:05:58,650
+Craig: yourself and then i used to say to people
+
+1714
+01:05:58,650 --> 01:05:59,450
+Craig: with the walk and
+
+1715
+01:05:59,450 --> 01:06:02,770
+Craig: talk side, just try a little voice
+
+1716
+01:06:02,770 --> 01:06:05,550
+Craig: conversation, say a few words, see how it
+
+1717
+01:06:05,550 --> 01:06:07,350
+Craig: feels. And I think
+
+1718
+01:06:07,350 --> 01:06:09,810
+Craig: people in their quieter moments or their
+
+1719
+01:06:09,810 --> 01:06:12,830
+Craig: more reflective moments with this tech
+
+1720
+01:06:13,270 --> 01:06:14,030
+Craig: can see a lot
+
+1721
+01:06:14,030 --> 01:06:15,882
+Craig: of potential that maybe you don't always
+
+1722
+01:06:15,882 --> 01:06:18,120
+Craig: hear about if you're just going off
+
+1723
+01:06:18,120 --> 01:06:19,180
+Craig: headlines. I'm
+
+1724
+01:06:19,180 --> 01:06:21,240
+Craig: cautiously optimistic in where it's all
+
+1725
+01:06:21,240 --> 01:06:24,320
+Craig: going. It still inspires me every single
+
+1726
+01:06:24,320 --> 01:06:26,340
+Craig: day while I'm
+
+1727
+01:06:26,340 --> 01:06:30,620
+Craig: also completely you know savvy to the the
+
+1728
+01:06:30,620 --> 01:06:32,680
+Craig: more difficult more challenging ethical
+
+1729
+01:06:32,680 --> 01:06:33,420
+Craig: spaces that
+
+1730
+01:06:33,420 --> 01:06:36,880
+Craig: it occupies i think both both things can
+
+1731
+01:06:36,880 --> 01:06:39,600
+Craig: be true it can be both a potential
+
+1732
+01:06:39,600 --> 01:06:41,420
+Craig: environmental challenge
+
+1733
+01:06:41,420 --> 01:06:45,300
+Craig: economic workplace challenge social challenge
+
+1734
+01:06:46,240 --> 01:06:47,360
+Craig: all the challenges are
+
+1735
+01:06:47,360 --> 01:06:48,155
+Craig: absolutely going to be there
+
+1736
+01:06:48,155 --> 01:06:51,780
+Craig: as a technology but that's not a reason
+
+1737
+01:06:51,780 --> 01:06:54,940
+Craig: to not try to extract goodness from it
+
+1738
+01:06:55,340 --> 01:06:56,260
+Craig: and the inclusive
+
+1739
+01:06:56,260 --> 01:06:58,680
+Craig: benefits that could support our students
+
+1740
+01:06:58,680 --> 01:06:59,700
+Craig: right now
+
+1741
+01:06:59,700 --> 01:07:02,500
+Josh: definitely yeah and there's I
+
+1742
+01:07:02,500 --> 01:07:03,240
+Josh: know so much
+
+1743
+01:07:03,240 --> 01:07:05,540
+Josh: more that we could explore in this space
+
+1744
+01:07:05,540 --> 01:07:08,300
+Josh: and so much more that's going to I guess
+
+1745
+01:07:08,300 --> 01:07:09,020
+Josh: be uncovered
+
+1746
+01:07:09,020 --> 01:07:12,520
+Josh: in the the weeks months and years from
+
+1747
+01:07:12,520 --> 01:07:14,780
+Josh: here but I really appreciate your your
+
+1748
+01:07:14,780 --> 01:07:15,760
+Josh: take on it and your
+
+1749
+01:07:15,760 --> 01:07:18,400
+Josh: understanding of of the use of AR to this
+
+1750
+01:07:18,400 --> 01:07:20,700
+Josh: point and the benefits that you've found
+
+1751
+01:07:20,700 --> 01:07:21,322
+Josh: to this point
+
+1752
+01:07:21,322 --> 01:07:24,430
+Josh: both in your own life and that of
+
+1753
+01:07:24,570 --> 01:07:26,210
+Josh: educators and students that you've worked
+
+1754
+01:07:26,210 --> 01:07:27,610
+Josh: with as well.
+
+1755
+01:07:27,610 --> 01:07:29,350
+Josh: For people who would like to find out
+
+1756
+01:07:29,350 --> 01:07:30,770
+Josh: more about the work that you're doing,
+
+1757
+01:07:30,770 --> 01:07:32,490
+Josh: I know there's a lot on Universal Sandpit
+
+1758
+01:07:32,490 --> 01:07:34,710
+Josh: in terms of some of your talks
+
+1759
+01:07:34,710 --> 01:07:36,930
+Josh: and what you've written and other
+
+1760
+01:07:36,930 --> 01:07:38,750
+Josh: recordings as well that you have.
+
+1761
+01:07:38,750 --> 01:07:40,230
+Josh: There's obviously the tools on Universal
+
+1762
+01:07:40,230 --> 01:07:41,310
+Josh: Sandpit as well.
+
+1763
+01:07:41,470 --> 01:07:44,050
+Josh: What other spaces and places can we find
+
+1764
+01:07:44,050 --> 01:07:45,110
+Josh: to keep updated
+
+1765
+01:07:45,110 --> 01:07:46,790
+Josh: with what it is that you're doing, the
+
+1766
+01:07:46,790 --> 01:07:47,470
+Josh: work you're doing,
+
+1767
+01:07:47,470 --> 01:07:49,590
+Josh: and what you're exploring in this space?
+
+1768
+01:07:49,590 --> 01:07:52,630
+Craig: Thank you, Josh. I definitely put the
+
+1769
+01:07:52,630 --> 01:07:53,930
+Craig: best of what I do up on the Universal
+
+1770
+01:07:53,930 --> 01:07:57,950
+Craig: Sandpit. I would also say that on
+
+1771
+01:07:57,950 --> 01:08:02,010
+Craig: LinkedIn, I try to stay current on
+
+1772
+01:08:02,010 --> 01:08:05,450
+Craig: LinkedIn. I post at least every week. And
+
+1773
+01:08:05,450 --> 01:08:08,130
+Craig: I often put little experiments up there
+
+1774
+01:08:08,130 --> 01:08:10,010
+Craig: that maybe I wouldn't put on the Sandpit
+
+1775
+01:08:10,010 --> 01:08:11,750
+Craig: because they're just a one-off thing that
+
+1776
+01:08:11,750 --> 01:08:13,730
+Craig: I've tried and played around with.
+
+1777
+01:08:13,730 --> 01:08:16,670
+Craig: i find that it's it's interesting and i
+
+1778
+01:08:16,670 --> 01:08:18,350
+Craig: mean you could have a whole conversation
+
+1779
+01:08:18,350 --> 01:08:19,150
+Craig: around the
+
+1780
+01:08:19,150 --> 01:08:22,590
+Craig: algorithms and social media but when i
+
+1781
+01:08:22,590 --> 01:08:24,890
+Craig: put little experiments up on linkedin
+
+1782
+01:08:24,890 --> 01:08:25,695
+Craig: that i think are really
+
+1783
+01:08:25,695 --> 01:08:30,120
+Craig: fascinating with ai but they're very left
+
+1784
+01:08:30,120 --> 01:08:33,540
+Craig: of center i get no engagement whatsoever
+
+1785
+01:08:33,540 --> 01:08:34,960
+Craig: but the
+
+1786
+01:08:34,960 --> 01:08:36,880
+Craig: moment that the moment that you mentioned
+
+1787
+01:08:36,880 --> 01:08:40,300
+Craig: something about you know gee aren't children
+
+1788
+01:08:40,300 --> 01:08:42,940
+Craig: you know doing poor with their reading i
+
+1789
+01:08:42,940 --> 01:08:45,120
+Craig: wonder if it relates to ai you know you
+
+1790
+01:08:45,120 --> 01:08:45,720
+Craig: get a thousand
+
+1791
+01:08:45,720 --> 01:08:49,520
+Craig: people commenting so yeah i i just say
+
+1792
+01:08:49,520 --> 01:08:51,880
+Craig: that that if if people are interested in
+
+1793
+01:08:51,880 --> 01:08:52,680
+Craig: seeing some of the
+
+1794
+01:08:52,680 --> 01:08:56,100
+Craig: more niche quirky little one-off things
+
+1795
+01:08:56,100 --> 01:08:58,600
+Craig: that i'm doing with ai and education i do
+
+1796
+01:08:58,600 --> 01:08:59,160
+Craig: put stuff up on
+
+1797
+01:08:59,160 --> 01:09:01,680
+Craig: linkedin all the time so between the
+
+1798
+01:09:01,680 --> 01:09:03,420
+Craig: universal cnp and linkedin you'll
+
+1799
+01:09:03,420 --> 01:09:04,520
+Craig: definitely get a sense of what
+
+1800
+01:09:04,520 --> 01:09:05,020
+Craig: i'm doing
+
+1801
+01:09:05,020 --> 01:09:07,020
+Josh: yeah no that's fantastic and i
+
+1802
+01:09:07,020 --> 01:09:08,680
+Josh: do encourage people to go and have a look at it
+
+1803
+01:09:08,680 --> 01:09:11,200
+Josh: Because, like I say, it is a really great
+
+1804
+01:09:11,200 --> 01:09:12,300
+Josh: space.
+
+1805
+01:09:12,300 --> 01:09:15,600
+Josh: And I thank you, Craig, for creating it
+
+1806
+01:09:15,600 --> 01:09:16,820
+Josh: and sharing it.
+
+1807
+01:09:16,820 --> 01:09:18,140
+Josh: And, again, for sharing your thoughts and
+
+1808
+01:09:18,140 --> 01:09:19,000
+Josh: ideas with us today.
+
+1809
+01:09:19,000 --> 01:09:20,680
+Josh: I really, really appreciate you jumping
+
+1810
+01:09:20,680 --> 01:09:22,060
+Josh: on the podcast.
+
+1811
+01:09:22,060 --> 01:09:24,980
+Josh: And, yeah, let us know what other things
+
+1812
+01:09:24,980 --> 01:09:27,280
+Josh: you find out and explore over the next
+
+1813
+01:09:27,280 --> 01:09:27,820
+Josh: little while.
+
+1814
+01:09:27,820 --> 01:09:30,160
+Josh: Because I'm very, very intrigued and keen
+
+1815
+01:09:30,160 --> 01:09:31,960
+Josh: to keep up to date with what you keep
+
+1816
+01:09:31,960 --> 01:09:32,840
+Josh: finding out.
+
+1817
+01:09:32,840 --> 01:09:34,330
+Josh: So, thanks again. Appreciate it.
+
+1818
+01:09:34,330 --> 01:09:35,840
+Craig: Well, thank you so much, Josh.
+
+1819
+01:09:35,840 --> 01:09:37,400
+Craig: Thank you for having me on the podcast.
+
+1820
+01:09:37,400 --> 01:09:38,820
+Craig: It's been wonderful to have this
+
+1821
+01:09:38,820 --> 01:09:40,720
+Craig: conversation with you and look forward to
+
+1822
+01:09:40,720 --> 01:09:41,480
+Craig: keeping in touch.
+
+1823
+01:09:57,400 --> 01:09:58,920
+Josh: Big thank you to Craig for such an
+
+1824
+01:09:58,920 --> 01:10:00,320
+Josh: interesting and thought-provoking
+
+1825
+01:10:00,320 --> 01:10:01,200
+Josh: conversation.
+
+1826
+01:10:01,380 --> 01:10:03,240
+Josh: I think that AI is one of those topics
+
+1827
+01:10:03,240 --> 01:10:04,700
+Josh: where we probably don't have all the
+
+1828
+01:10:04,700 --> 01:10:05,220
+Josh: answers yet
+
+1829
+01:10:05,220 --> 01:10:06,900
+Josh: and perhaps that's exactly why it's worth
+
+1830
+01:10:06,900 --> 01:10:08,140
+Josh: continuing to ask the questions.
+
+1831
+01:10:08,140 --> 01:10:10,900
+Josh: There are so many ideas and tools that
+
+1832
+01:10:10,900 --> 01:10:12,000
+Josh: Craig mentions throughout this
+
+1833
+01:10:12,000 --> 01:10:12,520
+Josh: conversation
+
+1834
+01:10:12,520 --> 01:10:15,040
+Josh: that are worth exploring for ourselves,
+
+1835
+01:10:15,040 --> 01:10:16,600
+Josh: not necessarily because we know exactly
+
+1836
+01:10:16,600 --> 01:10:18,760
+Josh: where they'll take us, but because they might
+
+1837
+01:10:18,760 --> 01:10:20,320
+Josh: help us understand what is possible.
+
+1838
+01:10:20,720 --> 01:10:22,120
+Josh: And I think the idea of using a double
+
+1839
+01:10:22,120 --> 01:10:25,220
+Josh: empathy lens is particularly important as we navigate
+
+1840
+01:10:25,220 --> 01:10:27,380
+Josh: this space, taking the time to understand
+
+1841
+01:10:27,380 --> 01:10:30,060
+Josh: how other people might experience and use
+
+1842
+01:10:30,060 --> 01:10:31,920
+Josh: technology differently from us.
+
+1843
+01:10:32,360 --> 01:10:33,600
+Josh: If something from today's conversation
+
+1844
+01:10:33,600 --> 01:10:35,760
+Josh: made you stop and think, we'd love to hear what
+
+1845
+01:10:35,760 --> 01:10:36,440
+Josh: it was.
+
+1846
+01:10:36,960 --> 01:10:38,600
+Josh: And if you enjoyed the episode, you can
+
+1847
+01:10:38,600 --> 01:10:40,780
+Josh: follow or subscribe to the Parent Teacher Interview
+
+1848
+01:10:40,780 --> 01:10:42,242
+Josh: Podcast wherever you listen to your
+
+1849
+01:10:42,242 --> 01:10:44,770
+Josh: podcasts and find us on Instagram at
+
+1850
+01:10:45,130 --> 01:10:46,770
+Josh: parentteacherinterviewpod.
+
+1851
+01:10:46,770 --> 01:10:48,090
+Josh: And remember, there is no booking
+
+1852
+01:10:48,090 --> 01:10:50,150
+Josh: required and we're looking forward to
+
+1853
+01:10:50,150 --> 01:10:50,850
+Josh: seeing you along
+
+1854
+01:10:50,990 --> 01:10:52,700
+Josh: at the next parent-teacher interview.

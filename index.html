@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Human Bit — The Universal Sandpit</title>
+<meta property="og:title" content="The Human Bit — Joshua MacWilliams x Craig Smith">
+<meta property="og:description" content="An animated conversation about AI, education and the human side of learning.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://humanbit.theuniversalsandpit.org/">
+<meta property="og:image" content="https://humanbit.theuniversalsandpit.org/assets/social-preview.png">
+<meta name="theme-color" content="#f5f4fb">
+<meta name="description" content="Joshua MacWilliams and Craig Smith talk about AI, education and the human side of learning. An animated pixel conversation from Parent Teacher Interview.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='3' width='11' height='11' rx='2' fill='%23d64a4a'/%3E%3Crect x='18' y='3' width='11' height='11' rx='2' fill='%23e8c547'/%3E%3Crect x='3' y='18' width='11' height='11' rx='2' fill='%235ab97a'/%3E%3Crect x='18' y='18' width='11' height='11' rx='2' fill='%235a7ec2'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/fonts/fonts.css">
+<link rel="stylesheet" href="style.css?v=full1">
+</head>
+<body>
+<a class="skip-link" href="#play">Skip to player</a>
+<header class="site-header">
+  <a class="brand" href="https://theuniversalsandpit.org/" aria-label="The Universal Sandpit home"><img src="assets/universal-sandpit-logo.png" alt="The Universal Sandpit" width="1500" height="659"></a>
+  <a class="back-link" href="https://theuniversalsandpit.org/">← Back to the Sandpit</a>
+</header>
+<main>
+  <div class="intro">
+    <p class="eyebrow">// THE UNIVERSAL SANDPIT // CONVERSATIONS</p>
+    <h1>The Human Bit<span class="cursor" aria-hidden="true">█</span></h1>
+    <p class="description">AI, education & the human side of learning.<br>Joshua MacWilliams x Craig Smith on <strong>Parent Teacher Interview.</strong></p>
+  </div>
+  <section class="player-card" aria-label="Podcast episode player">
+    <div class="colour-rule" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    <div class="player-heading"><span class="episode">PARENT TEACHER INTERVIEW <span class="episode-number">/ S2 E14</span></span><span class="pilot-tag"><span aria-hidden="true"></span>FULL EPISODE · 71 MIN</span></div>
+    <div class="stage"><canvas id="film" width="1920" height="1080" aria-label="Animated pixel characters of Joshua MacWilliams and Craig Smith with synchronised speech text"></canvas><div id="loading">ASSEMBLING THE CONVERSATION<span aria-hidden="true">█</span></div><div class="start"><button id="start">▶ &nbsp; Watch the conversation</button></div></div>
+    <div class="player-bottom">
+      <div class="controls"><button id="play" aria-label="Play episode">Play</button><button id="restart" aria-label="Restart episode" title="Restart">↺</button><input type="range" id="seek" aria-label="Playback position" min="0" max="60" step="0.01" value="0"><span id="clock">0:00 / 0:00</span><button id="fullscreen" aria-label="Full screen" title="Full screen">⛶</button></div>
+      <div class="options"><p class="note" id="chapter-current">The full conversation</p><label for="motion">Motion <select id="motion"><option value="1">Lively</option><option value="0.35">Gentle</option><option value="1.6" selected>Playful</option></select></label><a class="download" href="assets/episode.vtt" download>Download captions ↗</a></div>
+    </div>
+  </section>
+  <p id="play-status" class="play-status" role="status" aria-live="polite"></p>
+  <section class="chapters-section" aria-labelledby="chapters-heading"><p class="eyebrow">// FIND YOUR PLACE</p><h2 id="chapters-heading">Chapters</h2><ol id="chapters"></ol></section>
+  <div class="below-player">
+    <section class="conversation-note"><p class="eyebrow">// RHYTHM, INSIGHT, PLAY</p><h2>Room for a little thinking.</h2><p>A full conversation about AI, education, creativity and the human side of learning. Pick a chapter, or settle in from the beginning.</p><a href="https://theuniversalsandpit.org/rhythm-insight-play">Explore the framework →</a></section>
+    <details class="transcript-card"><summary>Read the conversation <span aria-hidden="true">＋</span></summary><div id="transcript"></div></details>
+  </div>
+  <footer class="page-footer"><span>/// HAVE A NICE DAY ///</span><a href="https://theuniversalsandpit.org/">The Universal Sandpit ↗</a></footer>
+</main>
+<audio id="audio" preload="metadata"></audio>
+<script type="module" src="app.js?v=full1"></script>
+</body></html>

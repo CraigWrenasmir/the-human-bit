@@ -1,0 +1,106 @@
+{
+  "edition": "The Human Bit \u2014 full episode",
+  "scope": "Interactive website. MP4 export is a separate deliverable.",
+  "durationSeconds": 4279.947063,
+  "defaultMotion": "Playful (1.6)",
+  "chapters": 12,
+  "words": 11519,
+  "captions": 1854,
+  "passed": true,
+  "timingSha256": "8561ceaf1fad2f7fbfcd3645c012f011c9c0fd77e88f46116b5995bed1591a1c",
+  "checks": {
+    "playback": [
+      {
+        "name": "Playful defaults to 1.6",
+        "pass": true
+      },
+      {
+        "name": "Full duration exceeds one hour",
+        "pass": true
+      },
+      {
+        "name": "Streaming audio uses direct URL",
+        "pass": true
+      },
+      {
+        "name": "Starts paused",
+        "pass": true
+      },
+      {
+        "name": "Playback starts",
+        "pass": true
+      },
+      {
+        "name": "Paused seek beyond one hour",
+        "pass": true
+      },
+      {
+        "name": "Hour clock is formatted",
+        "pass": true
+      },
+      {
+        "name": "Resume position restored",
+        "pass": true
+      },
+      {
+        "name": "Resume button identifies position",
+        "pass": true
+      },
+      {
+        "name": "Chapter navigation starts playback",
+        "pass": true,
+        "detail": "2:46"
+      },
+      {
+        "name": "Motion preference persists",
+        "pass": true
+      },
+      {
+        "name": "No desktop horizontal overflow",
+        "pass": true
+      },
+      {
+        "name": "No mobile horizontal overflow",
+        "pass": true
+      },
+      {
+        "name": "Narrow viewport remains within width",
+        "pass": true
+      },
+      {
+        "name": "Reduced motion defaults to Gentle",
+        "pass": true
+      },
+      {
+        "name": "Player loads when storage is blocked",
+        "pass": true
+      },
+      {
+        "name": "No browser errors",
+        "pass": true,
+        "detail": []
+      }
+    ],
+    "captionLayout": {
+      "cuesChecked": 1854,
+      "violations": 0
+    },
+    "timeline": {
+      "wordsPositive": true,
+      "wordsNoOverlap": true,
+      "cuesPositive": true,
+      "cuesNoOverlap": true,
+      "turnsPositive": true,
+      "turnsNoOverlap": true,
+      "ReadableCueMinimum": true,
+      "ChapterBounds": true,
+      "CueWordCoverage": true
+    },
+    "visual": {
+      "nativeFrames": 23,
+      "browserErrors": 0,
+      "findings": "No blocking visual findings in chapter, handover and music-gap samples."
+    }
+  },
+  "timingLimit": "Machine-estimated word times and stylised amplitude-driven mouths; no full human listening verification. See timing provenance for boundary estimates and the one unassigned brief backchannel."
+}
