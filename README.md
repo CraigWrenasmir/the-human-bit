@@ -1,5 +1,7 @@
 # The Human Bit
 
+[Watch the full episode](https://humanbit.theuniversalsandpit.org/)
+
 **Joshua MacWilliams x Craig Smith** — the full *Parent Teacher Interview*, S2 E14: *AI and the Human Side of Learning with Craig Smith*.
 
 An animated conversation in the Universal Sandpit style. This edition keeps the supplied full recording intact, including the acknowledgement, teaser, introduction and closing material.
